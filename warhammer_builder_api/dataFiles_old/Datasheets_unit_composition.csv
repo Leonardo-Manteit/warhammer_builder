@@ -414,13 +414,13 @@
 000000584|1|2-4 Warlocks|
 000000585|1|1 Warlock|
 000000586|1|2-3 Warlock Skyrunners|
-000000587|1|1-2 Warlock Skyrunners|
+000000587|1|1 Warlock Skyrunner|
 000000588|1|1 Spiritseer|
-000000589|1|10 Guardian Defenders|
-000000589|2|1 Heavy Weapon Platform|
-000000590|1|10 Storm Guardians|
-000000590|2|1 Serpent’s Scale Platform|
-000000591|1|3-6 Windriders|
+000000589|1|1 Heavy Weapon Platform|
+000000589|2|10 Guardian Defenders|
+000000590|1|1 Serpent’s Scale Platform|
+000000590|2|10 Storm Guardians|
+000000591|1|3-9 Windriders|
 000000592|1|5-10 Rangers|
 000000593|1|1 Dire Avenger Exarch|
 000000593|2|4-9 Dire Avengers|
@@ -430,8 +430,8 @@
 000000595|2|4-9 Striking Scorpions|
 000000596|1|1 Fire Dragon Exarch|
 000000596|2|4-9 Fire Dragons|
-000000597|1|5 Wraithguard|
-000000598|1|5 Wraithblades|
+000000597|1|5-10 Wraithguard|
+000000598|1|5-10 Wraithblades|
 000000599|1|1 Wave Serpent|
 000000600|1|1 Swooping Hawk Exarch|
 000000600|2|4-9 Swooping Hawks|
@@ -440,14 +440,15 @@
 000000602|1|1 Shining Spear Exarch|
 000000602|2|2-5 Shining Spears|
 000000603|1|1 Crimson Hunter|
-000000605|1|1-2 Vypers|
+000000605|1|1 Vyper|
 000000606|1|1 Hemlock Wraithfighter|
 000000607|1|1 Dark Reaper Exarch|
 000000607|2|4-9 Dark Reapers|
+000000608|1|1 Support Weapon|
 000000609|1|1 Falcon|
 000000610|1|1 Fire Prism|
 000000611|1|1 Night Spinner|
-000000612|1|1-2 War Walkers|
+000000612|1|1 War Walker|
 000000613|1|1 Wraithlord|
 000000614|1|1 Wraithknight|
 000000615|1|0-1 Shadow Spectre Exarch|
@@ -509,10 +510,16 @@
 000000665|1|1 Ravager|
 000000666|1|1 Reaper|
 000000667|1|1 Tantalus|
-000000680|1|1 Leman Russ Commander|
+000000680|1|1 Tank Commander|
+000000684|1|One of the following:|
+000000684|2|1 Sergeant and 9 Guardsmen|
+000000684|3|1 Sergeant, 7 Guardsmen and 1 Heavy Weapons Team|
+000000684|4|2 Sergeants and 18 Guardsmen|
+000000684|5|2 Sergeants, 16 Guardsmen and 1 Heavy Weapons Team|
+000000684|6|2 Sergeants, 14 Guardsmen and 2 Heavy Weapons Teams|
 000000686|1|3 Heavy Weapons Teams|
-000000690|1|1-2 Scout Sentinels|
-000000691|1|1-2 Armoured Sentinels|
+000000690|1|1-3 Scout Sentinels|
+000000691|1|1-3 Armoured Sentinels|
 000000692|1|1 Chimera|
 000000693|1|1 Taurox|
 000000694|1|1 Hellhound|
@@ -531,6 +538,8 @@
 000000707|1|1 Shadowsword|
 000000708|1|1 Stormlord|
 000000709|1|1 Stormsword|
+000000713|1|1 ‘Iron Hand’ Straken – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000000714|1|1 Sergeant Harker – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000000716|1|1 Commissar|
 000000719|1|1 Tempestor Prime|
 000000719|2|4 Tempestus Scions|
@@ -922,6 +931,7 @@
 000001393|1|1 Firestorm|
 000001394|1|1 Ministorum Priest|
 000001396|1|1 Tech-Priest Enginseer|
+000001397|1|4 Munitorum Servitors|
 000001398|1|1 Ogryn Bodyguard|
 000001400|1|1 Bonesinger|
 000001406|1|1 Sly Marbo – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
@@ -1203,11 +1213,11 @@
 000002531|1|1 Voidreaver Felarch|
 000002531|2|4-9 Corsair Voidreavers|
 000002532|1|This unit can contain a maximum of 10 models.|
-000002532|2|1 Voidscarred Felarch|
-000002532|3|4-9 Corsair Voidscarred|
-000002532|4|0-1 Shade Runner|
-000002532|5|0-1 Soul Weaver|
-000002532|6|0-1 Way Seeker|
+000002532|2|0-1 Shade Runner|
+000002532|3|0-1 Soul Weaver|
+000002532|4|0-1 Way Seeker|
+000002532|5|1 Voidscarred Felarch|
+000002532|6|4-9 Corsair Voidscarred|
 000002533|1|3-6 Shroud Runners|
 000002534|1|1 Troupe Master|
 000002535|1|1 Shadowseer|
@@ -1272,8 +1282,13 @@
 000002605|1|1 Lord Solar Leontus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002606|1|1 Ursula Creed – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002607|1|1 Cadian Castellan|
+000002608|1|One of the following:|
+000002608|2|1 Platoon Commander and 4 Veteran Guardsmen|
+000002608|3|OR|
+000002608|4|1 Platoon Commander, 2 Veteran Guardsmen and 1 Veteran Heavy Weapons Team|
 000002609|1|1 Cadian Commander|
 000002609|2|4 Cadian Veteran Guardsmen|
+000002610|1|1 Master of Ordnance, 1 Officer of the Fleet and 1 Astropath.|
 000002612|1|1 Shock Trooper Sergeant and 9 Shock Troopers|
 000002612|2|OR|
 000002612|3|2 Shock Trooper Sergeants and 18 Shock Troopers|
@@ -1288,6 +1303,7 @@
 000002616|1|1 Rough Rider Sergeant|
 000002616|2|4-9 Rough Riders|
 000002617|1|1 Rogal Dorn Battle Tank|
+000002618|1|2 Ordnance Teams|
 000002619|1|1 Aegis Defence Line|
 000002621|1|1 Angron – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002622|1|1 Khârn the Betrayer – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
@@ -1632,7 +1648,12 @@
 000003717|1|1 Cadian Castellan|
 000003718|1|1 Cadian Commander|
 000003718|2|4 Cadian Veteran Guardsmen|
+000003719|1|One of the following:|
+000003719|2|1 Platoon Commander and 4 Veteran Guardsmen|
+000003719|3|OR|
+000003719|4|1 Platoon Commander, 2 Veteran Guardsmen and 1 Veteran Heavy Weapons Team|
 000003720|1|1 Primaris Psyker|
+000003721|1|1 Tank Commander|
 000003722|1|1 Death Korps Marshal|
 000003723|1|1 Death Rider Squadron Commander|
 000003724|1|1 Death Rider Commissar|
@@ -1647,6 +1668,12 @@
 000003728|1|1 Death Korps Watchmaster and 9 Death Korps Troopers|
 000003728|2|OR|
 000003728|3|2 Death Korps Watchmasters and 18 Death Korps Troopers|
+000003729|1|One of the following:|
+000003729|2|1 Sergeant and 9 Guardsmen|
+000003729|3|1 Sergeant, 7 Guardsmen and 1 Heavy Weapons Team|
+000003729|4|2 Sergeants and 18 Guardsmen|
+000003729|5|2 Sergeants, 16 Guardsmen and 1 Heavy Weapons Team|
+000003729|6|2 Sergeants, 14 Guardsmen and 2 Heavy Weapons Teams|
 000003730|1|1 Chimera|
 000003731|1|1 Taurox|
 000003732|1|1 Taurox Prime|
@@ -1656,7 +1683,7 @@
 000003736|1|1 Hydra Platform|
 000003737|1|1 Manticore Platform|
 000003738|1|1-2 Sabre Gun Platforms|
-000003739|1|1-2 Armoured Sentinels|
+000003739|1|1-3 Armoured Sentinels|
 000003740|1|1 Rough Rider Sergeant|
 000003740|2|4-9 Rough Riders|
 000003741|1|1 Baneblade|
@@ -1666,6 +1693,7 @@
 000003745|1|1 Deathstrike|
 000003746|1|1 Doomhammer|
 000003747|1|2 Ordnance Teams|
+000003748|1|3 Heavy Weapons Teams|
 000003749|1|1 Hellhammer|
 000003750|1|1 Hellhound|
 000003751|1|1 Hydra|
@@ -1679,8 +1707,10 @@
 000003758|1|1 Leman Russ Punisher|
 000003759|1|1 Leman Russ Vanquisher|
 000003760|1|1 Manticore|
+000003761|1|4 Munitorum Servitors|
+000003762|1|1 Master of Ordnance, 1 Officer of the Fleet and 1 Astropath.|
 000003763|1|1 Rogal Dorn Battle Tank|
-000003764|1|1-2 Scout Sentinels|
+000003764|1|1-3 Scout Sentinels|
 000003765|1|1 Shadowsword|
 000003766|1|1 Stormlord|
 000003767|1|1 Stormsword|
@@ -1827,6 +1857,7 @@
 000003864|1|1 Solitaire – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000003865|1|1 Troupe Master|
 000003866|1|1 Starweaver|
+000003867|1|2 Wraithbone Arches|
 000003868|1|2-4 Skyweavers|
 000003869|1|1 Lead Player|
 000003869|2|4-11 Players|
@@ -1857,50 +1888,3 @@
 000003886|1|3-6 Raveners|
 000003887|1|1 Trygon|
 000003888|1|3-6 Von Ryan’s Leapers|
-000003889|1|1 Lord Commissar|
-000003889|2|5 Veteran Guardsmen|
-000003890|1|1 Lord Marshal Dreir – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000003891|1|1 Catachan Commander|
-000003891|2|4 Veteran Guardsmen|
-000003892|1|1 Rogal Dorn Tank Commander|
-000003893|1|1 Krieg Engineer Watchmaster|
-000003893|2|4-9 Krieg Combat Engineers|
-000003894|1|3 Heavy Weapons Teams|
-000003895|1|3 Heavy Weapons Gunners|
-000003895|2|1 Fire Coordinator|
-000003896|1|1 Artillery Team|
-000003897|1|2 Ordnance Teams|
-000003898|1|1 Ridemaster|
-000003898|2|4-9 Death Riders|
-000003899|1|1 Catachan Commander|
-000003899|2|4 Veteran Guardsmen|
-000003900|1|1 Lord Commissar|
-000003900|2|5 Veteran Guardsmen|
-000003901|1|1 Leman Russ Commander|
-000003902|1|1 Rogal Dorn Tank Commander|
-000003903|1|1 Artillery Team|
-000003904|1|3 Heavy Weapons Teams|
-000003905|1|3 Heavy Weapons Teams|
-000003906|1|1 Ridemaster|
-000003906|2|4-9 Death Riders|
-000003907|1|1 Krieg Engineer Watchmaster|
-000003907|2|4-9 Krieg Combat Engineers|
-000003908|1|3 Heavy Weapons Gunners|
-000003908|2|1 Fire Coordinator|
-000003909|1|1 Jain Zar – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000003910|1|1 D-cannon Platform|
-000003911|1|1 Shadow Weaver Platform|
-000003912|1|1 Vibro Cannon Platform|
-000003913|1|1 Wraithknight with Ghostglaive|
-000003914|1|1 Archon|
-000003915|1|1 Succubus|
-000003916|1|1 Sybarite|
-000003916|2|9 Kabalite Warriors|
-000003917|1|1 Hekatrix|
-000003917|2|9 Wyches|
-000003918|1|1 Klaivex|
-000003918|2|4-9 Incubi|
-000003919|1|1 Arena Champion|
-000003919|2|2-5 Reavers|
-000003920|1|1 Raider|
-000003921|1|1 Venom|

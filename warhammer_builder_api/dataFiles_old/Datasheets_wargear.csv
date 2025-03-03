@@ -1616,37 +1616,38 @@
 000000564|6|1||Armoured bulk||Melee|Melee|3|4|6|0|1|
 000000567|1|1||Gauss annihilator|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-fly 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|120|Ranged|1|4|16|-4|D6+6|
 000000567|2|1||Tesla arc|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 2</a>|6|Ranged|6|4|4|0|1|
-000000568|1|1||Mind War|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-character 4+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|1|2|5|-2|D6|
-000000568|2|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
-000000568|3|1||Staff of Ulthamar and witchblade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|3|2|5|-1|2|
+000000568|1|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
+000000568|2|1||Mind War|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-character 4+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|1|2|5|-2|D6|
+000000568|3|1||The Staff of Ulthamar and witchblade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|3|2|5|-1|2|
 000000569|1|1||The Eye of Wrath|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|6|Ranged|1|2|6|-3|2|
 000000569|2|1||The Spear of Twilight||Melee|Melee|5|2|6|-3|3|
 000000570|1|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
 000000570|2|1||Voidbringer|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|48|Ranged|1|2|6|-3|3|
 000000570|3|1||Aeldari power sword||Melee|Melee|4|2|4|-2|1|
-000000571|1|1||Bloody Twins|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|24|Ranged|6|2|5|-1|2|
-000000571|2|1||Sword of Asur|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|6|2|6|-3|3|
-000000572|1|1||Silent Death|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|12|Ranged|6|2|6|-2|1|
-000000572|2|1||Blade of Destruction|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|8|2|6|-3|2|
+000000571|1|1||The Bloody Twins|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|24|Ranged|6|2|4|-1|2|
+000000571|2|1||The Sword of Asur|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|6|2|6|-3|3|
+000000572|1|1||The Silent Death|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|12|Ranged|6|2|6|-2|1|
+000000572|2|1||The Blade of Destruction – strike||Melee|Melee|6|2|6|-3|2|
+000000572|3|2||The Blade of Destruction – sweep||Melee|Melee|12|2|4|-3|1|
 000000573|1|1||Arhra’s Bane|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|2|5|-1|2|
 000000573|2|1||Arhra’s Bane|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|5|2|8|-3|2|
 000000573|3|1||Isirmathil|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|8|2|6|-1|1|
-000000574|1|1||Searsong – beam|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 2</a>|12|Ranged|3|2|8|-3|2|
-000000574|2|2||Searsong – lance|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 6</a>|18|Ranged|1|2|14|-4|D6|
-000000574|3|1||Fire Axe||Melee|Melee|6|2|5|-4|3|
+000000574|1|1||Searsong – beam|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits d3</a>|12|Ranged|3|2|8|-3|2|
+000000574|2|2||Searsong – lance|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 6</a>|18|Ranged|1|2|14|-4|D6|
+000000574|3|1||The Fire Axe||Melee|Melee|6|2|5|-4|3|
 000000575|1|1||Fury of the Tempest|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|4|2|6|-1|2|
-000000575|2|1||Shining Blade|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|6|2|5|-2|2|
-000000576|1|1||Maugetar|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|36|Ranged|6|2|7|-2|2|
-000000576|2|1||Maugetar||Melee|Melee|5|2|6|-2|2|
-000000577|1|1||Death spinner|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
+000000575|2|1||The Shining Blade|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|6|2|5|-2|2|
+000000576|1|1||The Maugetar|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|36|Ranged|6|2|7|-1|2|
+000000576|2|1||The Maugetar||Melee|Melee|5|2|6|-2|2|
+000000577|1|1||Death spinner|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
 000000577|2|1||Dragon fusion gun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>|12|Ranged|1|2|9|-4|D6|
-000000577|3|1||Dragon fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|2|9|-4|D6|
-000000577|4|1||Reaper launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|3|10|-2|3|
-000000577|5|2||Reaper launcher – starswarm|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|3|4|-2|1|
+000000577|3|1||Fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|2|8|-4|D3|
+000000577|4|1||Reaper launcher – starswarm|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|3|5|-1|1|
+000000577|5|2||Reaper launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|3|8|-2|2|
 000000577|6|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
-000000577|7|1||Banshee blade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|5|2|4|-2|2|
-000000577|8|1||Scorpion chainsword|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|7|2|4|-1|1|
-000000577|9|1||Star glaive||Melee|Melee|4|2|6|-3|3|
+000000577|7|1||Banshee blade||Melee|Melee|5|2|4|-3|1|
+000000577|8|1||Scorpion chainsword|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|6|2|5|0|1|
+000000577|9|1||Star glaive||Melee|Melee|5|3|6|-2|2|
 000000580|1|1||Dragon fusion gun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>|12|Ranged|1|2|9|-4|D6|
 000000580|2|1||Laser lance|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|6|Ranged|1|2|6|-3|2|
 000000580|3|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|2|4|-1|1|
@@ -1654,8 +1655,8 @@
 000000580|5|1||Banshee blade||Melee|Melee|5|2|4|-3|1|
 000000580|6|1||Close combat weapon||Melee|Melee|3|2|3|0|1|
 000000581|1|1||The Wailing Doom|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits d3</a>|12|Ranged|1|2|16|-4|D6+2|
-000000581|2|2||The Wailing Doom – strike||Melee|Melee|6|2|16|-4|D6+2|
-000000581|3|3||The Wailing Doom – sweep||Melee|Melee|12|2|8|-2|2|
+000000581|2|2||The Wailing Doom – strike||Melee|Melee|6|2|14|-4|D6+2|
+000000581|3|3||The Wailing Doom – sweep||Melee|Melee|12|2|7|-2|2|
 000000582|1|1||Eldritch Storm|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|24|Ranged|D6|3|6|-2|D3|
 000000582|2|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
 000000582|3|1||Singing spear|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|12|Ranged|1|2|9|0|3|
@@ -1672,11 +1673,11 @@
 000000584|3|1||Singing spear|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|12|Ranged|1|3|9|0|3|
 000000584|4|1||Singing spear|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|3|3|0|3|
 000000584|5|1||Witchblade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|3|3|0|2|
-000000585|1|1||Destructor|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
-000000585|2|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
+000000585|1|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
+000000585|2|1||Destructor|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000585|3|1||Singing spear|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|12|Ranged|1|3|9|0|3|
-000000585|4|1||Singing spear|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|3|3|0|3|
-000000585|5|1||Witchblade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|3|3|0|2|
+000000585|4|1||Witchblade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|3|3|0|2|
+000000585|5|1||Singing spear|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|3|3|0|3|
 000000586|1|1||Destructor|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000586|2|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
 000000586|3|1||Singing spear|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|12|Ranged|1|3|9|0|3|
@@ -1691,148 +1692,144 @@
 000000587|6|1||Witchblade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|3|3|0|2|
 000000588|1|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
 000000588|2|1||Witch staff|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|2|3|0|D3|
-000000589|1|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
-000000589|2|1||Missile launcher – starshot||48|Ranged|1|3|10|-2|D6|
-000000589|3|2||Missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|4|-1|1|
-000000589|4|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
-000000589|5|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000000589|1|1||Aeldari missile launcher – starshot||48|Ranged|1|3|10|-2|D6|
+000000589|2|2||Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|4|-1|1|
+000000589|3|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
+000000589|4|1||Scatter laser||36|Ranged|6|3|5|0|1|
+000000589|5|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000589|6|1||Shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|2|3|4|-1|1|
 000000589|7|1||Starcannon||36|Ranged|2|3|8|-3|2|
 000000589|8|1||Close combat weapon||Melee|Melee|1|3|3|0|1|
-000000590|1|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
-000000590|2|1||Fusion gun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|3|8|-4|D6|
+000000590|1|1||Aeldari flamer|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
+000000590|2|1||Guardian fusion gun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|3|8|-4|D6|
 000000590|3|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
-000000590|4|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000000590|5|1||Power sword||Melee|Melee|2|3|4|-2|1|
-000000591|1|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
-000000591|2|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000000590|4|1||Aeldari power sword||Melee|Melee|2|3|4|-2|1|
+000000590|5|1||Guardian combat weapon||Melee|Melee|2|3|3|0|1|
+000000591|1|1||Scatter laser||36|Ranged|6|3|5|0|1|
+000000591|2|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000591|3|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-1|1|
 000000591|4|1||Close combat weapon||Melee|Melee|3|3|3|0|1|
-000000592|1|1||Long rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|3|4|-1|2|
+000000592|1|1||Ranger long rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|3|4|-1|2|
 000000592|2|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
 000000592|3|1||Close combat weapon||Melee|Melee|1|3|3|0|1|
-000000593|1|1||Avenger shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|4|3|4|-1|1|
+000000593|1|1||Avenger shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|18|Ranged|3|3|4|-1|1|
 000000593|2|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
 000000593|3|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000000593|4|1||Diresword||Melee|Melee|4|3|4|-2|1|
-000000593|5|1||Power glaive||Melee|Melee|3|3|5|-3|1|
+000000593|4|1||Diresword|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|3|3|4|-2|1|
+000000593|5|1||Power glaive||Melee|Melee|3|3|5|-2|1|
 000000594|1|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
-000000594|2|1||Triskele|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|12|Ranged|3|3|3|-1|1|
-000000594|3|1||Banshee blade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|2|2|4|-2|2|
-000000594|4|1||Executioner|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|3|2|6|-3|3|
-000000594|5|1||Mirrorswords|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|4|2|4|-2|2|
-000000594|6|1||Triskele|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|6|2|3|-1|1|
-000000595|1|1||Chainsabres|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|12|Ranged|1|3|4|-1|1|
+000000594|2|1||Triskele|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|12|Ranged|3|3|4|-2|1|
+000000594|3|1||Banshee blade||Melee|Melee|3|3|4|-3|1|
+000000594|4|1||Executioner||Melee|Melee|4|3|5|-2|2|
+000000594|5|1||Mirrorswords||Melee|Melee|6|3|4|-3|1|
+000000594|6|1||Triskele||Melee|Melee|5|3|3|-2|1|
+000000595|1|1||Scorpion’s claw|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|3|4|-1|1|
 000000595|2|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
-000000595|3|1||Biting blade|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|4|3|6|-3|1|
-000000595|4|1||Chainsabres|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|Melee|Melee|5|3|4|-1|1|
-000000595|5|1||Scorpion chainsword|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|4|3|4|-1|1|
-000000595|6|1||Scorpion’s claw|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|3|3|8|-2|2|
+000000595|3|1||Biting blade|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|5|3|5|-1|2|
+000000595|4|1||Scorpion chainsword|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|4|3|4|0|1|
+000000595|5|1||Scorpion’s claw|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|4|4|8|-2|2|
 000000596|1|1||Dragon fusion gun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>|12|Ranged|1|3|9|-4|D6|
-000000596|2|1||Dragon fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|3|9|-4|D6|
-000000596|3|1||Dragon’s breath flamer|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6+2|N/A|6|-2|1|
-000000596|4|1||Exarch’s Dragon fusion gun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 6</a>|12|Ranged|1|3|9|-4|D6|
-000000596|5|1||Firepike|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>|18|Ranged|1|3|12|-4|D6|
-000000596|6|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000000596|7|1||Dragon axe||Melee|Melee|3|3|6|-4|D6|
-000000597|1|1||Wraithcannon||18|Ranged|1|4|14|-4|D6+1|
-000000597|2|1||D-scythe|<a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|7|-3|1|
+000000596|2|1||Dragon’s breath flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|6|-1|1|
+000000596|3|1||Firepike|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>|18|Ranged|1|3|12|-4|D6|
+000000596|4|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
+000000597|1|1||Wraithcannon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|18|Ranged|1|4|14|-4|D6|
+000000597|2|1||D-scythe||12|Ranged|D6|4|10|-4|1|
 000000597|3|1||Close combat weapon||Melee|Melee|3|4|5|0|1|
 000000598|1|1||Ghostaxe||Melee|Melee|3|4|7|-2|2|
-000000598|2|1||Ghostswords||Melee|Melee|5|4|5|-2|2|
-000000599|1|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
-000000599|2|1||Twin missile launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|1|3|10|-2|D6|
-000000599|3|2||Twin missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|D6|3|4|-1|1|
+000000598|2|1||Ghostswords||Melee|Melee|5|4|6|-2|1|
+000000599|1|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
+000000599|2|1||Twin Aeldari missile launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|1|3|10|-2|D6|
+000000599|3|2||Twin Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|D6|3|4|-1|1|
 000000599|4|1||Twin bright lance|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|36|Ranged|1|3|12|-3|D6+2|
-000000599|5|1||Twin scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|36|Ranged|6|3|5|0|1|
-000000599|6|1||Twin shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|24|Ranged|3|3|6|-1|2|
+000000599|5|1||Twin scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|36|Ranged|6|3|5|0|1|
+000000599|6|1||Twin shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|24|Ranged|3|3|6|-1|2|
 000000599|7|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-1|1|
 000000599|8|1||Twin starcannon|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|36|Ranged|2|3|8|-3|2|
 000000599|9|1||Wraithbone hull||Melee|Melee|3|4|6|0|1|
-000000600|1|1||Exarch’s lasblaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|4|3|5|-1|1|
-000000600|2|1||Hawk’s talon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|2|3|6|-2|2|
-000000600|3|1||Lasblaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|4|3|4|0|1|
-000000600|4|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
-000000600|5|1||Sunpistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|3|4|0|1|
-000000600|6|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000000600|7|1||Power sword||Melee|Melee|5|3|4|-2|1|
-000000601|1|1||Death spinner|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|-1|1|
-000000601|2|1||Death weavers|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|6|Ranged|D6|N/A|4|-1|1|
-000000601|3|1||Exarch’s death spinner|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|6|-2|1|
-000000601|4|1||Spinneret rifle|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|18|Ranged|D6|N/A|5|-1|1|
-000000601|5|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000000601|6|1||Powerblade array|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|Melee|Melee|10|3|4|-2|1|
-000000601|7|1||Powerblades|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|Melee|Melee|5|3|4|-2|1|
-000000602|1|1||Laser lance|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|6|Ranged|1|3|6|-2|3|
-000000602|2|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
-000000602|3|1||Star lance|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|6|Ranged|1|3|9|-3|3|
+000000600|1|1||Hawk’s talon|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|4|3|5|0|1|
+000000600|2|1||Lasblaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|4|3|4|0|1|
+000000600|3|1||Aeldari power sword||Melee|Melee|3|3|4|-2|1|
+000000600|4|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
+000000601|1|1||Death spinner|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
+000000601|2|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
+000000601|3|1||Powerblades||Melee|Melee|3|3|4|-2|1|
+000000602|1|1||Laser lance|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|6|Ranged|1|3|6|-2|2|
+000000602|2|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
+000000602|3|1||Star lance|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|6|Ranged|1|2|9|-3|2|
 000000602|4|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-1|1|
-000000602|5|1||Laser lance|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-monster 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-vehicle 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lance">lance</a>|Melee|Melee|3|3|5|-2|3|
-000000602|6|1||Paragon sabre||Melee|Melee|6|3|5|-2|2|
-000000602|7|1||Star lance|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-monster 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-vehicle 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lance">lance</a>|Melee|Melee|4|3|5|-3|3|
+000000602|5|1||Laser lance|<a href="/wh40k10ed/the-rules/core-rules/#Lance">lance</a>|Melee|Melee|3|3|4|-2|2|
+000000602|6|1||Paragon sabre||Melee|Melee|6|3|4|-2|2|
+000000602|7|1||Star lance|<a href="/wh40k10ed/the-rules/core-rules/#Lance">lance</a>|Melee|Melee|4|2|4|-3|2|
 000000603|1|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
 000000603|2|1||Pulse laser||48|Ranged|3|3|9|-2|D6|
 000000603|3|1||Starcannon||36|Ranged|2|3|8|-3|2|
 000000603|4|1||Wraithbone hull||Melee|Melee|3|4|6|0|1|
-000000605|1|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
-000000605|2|1||Missile launcher – starshot||48|Ranged|1|3|10|-2|D6|
-000000605|3|2||Missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|4|-1|1|
-000000605|4|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
-000000605|5|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
-000000605|6|1||Starcannon||36|Ranged|2|3|8|-3|2|
+000000605|1|1||Aeldari missile launcher – starshot||48|Ranged|1|3|10|-2|D6|
+000000605|2|2||Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|4|-1|1|
+000000605|3|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
+000000605|4|1||Scatter laser||36|Ranged|6|3|5|0|1|
+000000605|5|1||Starcannon||36|Ranged|2|3|8|-3|2|
+000000605|6|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000605|7|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-1|1|
 000000605|8|1||Wraithbone hull||Melee|Melee|3|4|6|0|1|
 000000606|1|1||Heavy D-scythe|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|18|Ranged|D6|4|12|-4|2|
 000000606|2|1||Wraithbone hull||Melee|Melee|3|4|6|0|1|
-000000607|1|1||Missile launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|1|2|10|-2|D6|
-000000607|2|2||Missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|D6|2|4|-1|1|
-000000607|3|1||Reaper launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|1|3|10|-2|3|
-000000607|4|2||Reaper launcher – starswarm|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|2|3|5|-2|1|
-000000607|5|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000000607|1|1||Aeldari missile launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|1|3|10|-2|D6|
+000000607|2|2||Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|D6|3|4|-1|1|
+000000607|3|1||Reaper launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|1|3|8|-2|2|
+000000607|4|2||Reaper launcher – starswarm|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|2|3|5|-1|1|
+000000607|5|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000607|6|1||Tempest launcher|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|36|Ranged|2D6|3|4|-1|1|
 000000607|7|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000000609|1|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
-000000609|2|1||Missile launcher – starshot||48|Ranged|1|3|10|-2|D6|
-000000609|3|2||Missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|4|-1|1|
+000000608|1|1||D-cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|24|Ranged|D3|3|16|-4|D6+2|
+000000608|2|1||Shadow weaver|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6+2|3|6|0|1|
+000000608|3|1||Shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|2|3|4|-1|1|
+000000608|4|1||Vibro cannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6|3|8|-1|2|
+000000608|5|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
+000000609|1|1||Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|4|-1|1|
+000000609|2|2||Aeldari missile launcher – starshot||48|Ranged|1|3|10|-2|D6|
+000000609|3|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
 000000609|4|1||Pulse laser||48|Ranged|3|3|9|-2|D6|
-000000609|5|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
-000000609|6|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
-000000609|7|1||Starcannon||36|Ranged|2|3|8|-3|2|
-000000609|8|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-1|1|
+000000609|5|1||Starcannon||36|Ranged|2|3|8|-3|2|
+000000609|6|1||Scatter laser||36|Ranged|6|3|5|0|1|
+000000609|7|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-1|1|
+000000609|8|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000609|9|1||Wraithbone hull||Melee|Melee|3|4|6|0|1|
-000000610|1|1||Prism cannon – dispersed pulse|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|60|Ranged|2D6|3|6|-2|2|
+000000610|1|1||Prism cannon – dispersed pulse|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|60|Ranged|2D6|3|6|-1|2|
 000000610|2|2||Prism cannon – focused lances|linked fire|60|Ranged|2|3|18|-4|6|
-000000610|3|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000000610|3|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000610|4|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-1|1|
 000000610|5|1||Wraithbone hull||Melee|Melee|3|4|6|0|1|
-000000611|1|1||Doomweaver|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|D6+3|3|7|-1|2|
-000000611|2|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000000611|1|1||Doomweaver|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|D6+3|3|7|0|2|
+000000611|2|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000611|3|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-1|1|
 000000611|4|1||Wraithbone hull||Melee|Melee|3|4|6|0|1|
-000000612|1|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
-000000612|2|1||Missile launcher – starshot||48|Ranged|1|3|10|-2|D6|
-000000612|3|2||Missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|4|-1|1|
-000000612|4|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
-000000612|5|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000000612|1|1||Aeldari missile launcher – starshot||48|Ranged|1|3|10|-2|D6|
+000000612|2|2||Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|4|-1|1|
+000000612|3|1||Bright lance||36|Ranged|1|3|12|-3|D6+2|
+000000612|4|1||Scatter laser||36|Ranged|6|3|5|0|1|
+000000612|5|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000612|6|1||Starcannon||36|Ranged|2|3|8|-3|2|
 000000612|7|1||War Walker feet||Melee|Melee|3|3|5|0|1|
-000000613|1|1||Bright lance||36|Ranged|1|4|12|-3|D6+2|
-000000613|2|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
-000000613|3|1||Missile launcher – starshot||48|Ranged|1|4|10|-2|D6|
-000000613|4|2||Missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|4|4|-1|1|
-000000613|5|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|4|5|0|1|
-000000613|6|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|4|6|-1|2|
+000000613|1|1||Aeldari missile launcher – starshot||48|Ranged|1|4|10|-2|D6|
+000000613|2|2||Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|4|4|-1|1|
+000000613|3|1||Aeldari flamer|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
+000000613|4|1||Bright lance||36|Ranged|1|4|12|-3|D6+2|
+000000613|5|1||Scatter laser||36|Ranged|6|4|5|0|1|
+000000613|6|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|4|6|-1|2|
 000000613|7|1||Shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|2|4|4|-1|1|
 000000613|8|1||Starcannon||36|Ranged|2|4|8|-3|2|
 000000613|9|1||Ghostglaive – strike||Melee|Melee|4|4|10|-3|D6+1|
 000000613|10|2||Ghostglaive – sweep||Melee|Melee|8|4|7|-2|2|
 000000613|11|1||Wraithbone fists||Melee|Melee|4|4|7|-2|2|
-000000614|1|1||Heavy wraithcannon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|36|Ranged|D3|3|20|-4|2D6|
-000000614|2|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
-000000614|3|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000000614|1|1||Heavy wraithcannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|36|Ranged|D3|3|20|-4|2D6|
+000000614|2|1||Scatter laser||36|Ranged|6|3|5|0|1|
+000000614|3|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000000614|4|1||Starcannon||36|Ranged|2|3|8|-3|2|
-000000614|5|1||Suncannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6+4|3|10|-3|3|
+000000614|5|1||Suncannon||48|Ranged|2D6|3|8|-3|3|
 000000614|6|1||Titanic feet||Melee|Melee|5|3|8|-1|2|
+000000614|7|1||Titanic ghostglaive – strike||Melee|Melee|5|3|16|-3|6|
+000000614|8|2||Titanic ghostglaive – sweep||Melee|Melee|15|3|8|-2|2|
 000000615|1|1||Prism rifle – dispersed|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|18|Ranged|D6|3|4|-1|1|
 000000615|2|2||Prism rifle – focused||24|Ranged|1|3|6|-2|3|
 000000615|3|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
@@ -1927,16 +1924,16 @@
 000000629|10|1||Void sabre||Melee|Melee|3|3|4|-2|1|
 000000630|1|1||Spear of Starlight||24|Ranged|3|3|8|-2|4|
 000000630|2|1||Spear of Starlight||Melee|Melee|4|3|5|-2|1|
-000000631|1|1||D-bombard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|72|Ranged|D6|3|20|-4|2D6|
-000000631|2|1||Phantom pulsar||120|Ranged|8|3|18|-4|6|
+000000631|1|1||Pulse laser||48|Ranged|3|3|9|-2|D6|
+000000631|2|1||Voidstorm missile launcher||48|Ranged|2D6|3|8|-3|2|
 000000631|3|1||Phantom starcannon||36|Ranged|4|3|8|-3|2|
-000000631|4|1||Pulse laser||48|Ranged|3|3|9|-2|D6|
-000000631|5|1||Voidstorm missile launcher||48|Ranged|2D6|3|8|-3|2|
+000000631|4|1||Phantom pulsar||120|Ranged|8|3|18|-4|6|
+000000631|5|1||D-bombard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|72|Ranged|D6|3|20|-4|2D6|
 000000631|6|1||Phantom feet||Melee|Melee|4|3|12|-2|4|
-000000631|7|1||Wraith glaive – strike||Melee|Melee|6|3|18|-4|12|
-000000631|8|2||Wraith glaive – sweep||Melee|Melee|12|3|8|-3|4|
-000000632|1|1||Aeldari missile launcher – starshot ||48|Ranged|1|3|10|-2|D6|
-000000632|2|2||Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">BLAST</a>|48|Ranged|D6|3|4|-1|1|
+000000631|7|1||Wraith glaive – sweep||Melee|Melee|12|3|8|-3|4|
+000000631|8|2||Wraith glaive – strike||Melee|Melee|6|3|18|-4|12|
+000000632|1|1||Aeldari missile launcher – starshot ||48|Melee|1|3|10|-2|D6|
+000000632|2|2||Aeldari missile launcher – sunburst|<a href="/wh40k10ed/the-rules/core-rules/#Blast">BLAST</a>|48|Melee|D6|3|4|-1|1|
 000000632|3|1||Blaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|1|3|8|-4|D6+1|
 000000632|4|1||Brace of pistols|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|3|3|0|1|
 000000632|5|1||Corsair firearm|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|4|3|4|0|1|
@@ -2070,26 +2067,50 @@
 000000666|4|1||Prow blade|<a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lance">lance</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 3</a>|Melee|Melee|1|4|8|-2|2|
 000000667|1|1||Pulse disintegrators|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|36|Ranged|12|3|10|-2|2|
 000000667|2|1||Dire scythe blades||Melee|Melee|6|4|8|-1|2|
-000000680|1|1||Demolisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6+1|4|14|-3|D6|
+000000680|1|1||Demolisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6+3|4|14|-3|D6|
 000000680|2|1||Eradicator nova cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|36|Ranged|D3+6|4|7|-1|2|
 000000680|3|1||Executioner plasma cannon – standard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|D6+3|4|7|-2|2|
 000000680|3|2||Executioner plasma cannon – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>|36|Ranged|D6+3|4|8|-3|3|
 000000680|4|1||Exterminator autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 4</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|4|4|9|-1|3|
-000000680|5|1||Punisher gatling cannon||24|Ranged|20|4|6|0|1|
-000000680|6|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
-000000680|7|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
-000000680|8|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
-000000680|9|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
-000000680|10|1||Lascannon||48|Ranged|1|4|12|-3|D6+1|
-000000680|11|1||Leman Russ battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6+3|4|10|-1|3|
-000000680|12|1||Multi-melta|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|18|Ranged|2|4|9|-4|D6|
-000000680|14|1||Storm bolter|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 2</a>|24|Ranged|2|4|4|0|1|
-000000680|15|1||Vanquisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|72|Ranged|1|4|18|-4|D6+6|
-000000680|16|1||Armoured tracks||Melee|Melee|6|4|7|0|1|
+000000680|5|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
+000000680|6|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
+000000680|7|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
+000000680|8|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
+000000680|9|1||Lascannon||48|Ranged|1|4|12|-3|D6+1|
+000000680|10|1||Leman Russ battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6+3|4|10|-1|3|
+000000680|11|1||Militarum plasma cannon – standard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|D3|4|7|-2|1|
+000000680|12|2||Militarum plasma cannon – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>|36|Ranged|D3|4|8|-3|2|
+000000680|13|1||Multi-melta|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|18|Ranged|2|4|9|-4|D6|
+000000680|14|1||Punisher gatling cannon||24|Ranged|20|4|5|0|1|
+000000680|15|1||Storm bolter|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 2</a>|24|Ranged|2|4|4|0|1|
+000000680|16|1||Vanquisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|72|Ranged|1|4|18|-4|D6+6|
+000000680|17|1||Armoured tracks||Melee|Melee|6|4|7|0|1|
+000000684|1|1||Autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|5|9|-1|3|
+000000684|2|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
+000000684|3|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
+000000684|4|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
+000000684|5|1||Grenade launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D3|4|4|0|1|
+000000684|6|2||Grenade launcher – krak||24|Ranged|1|4|9|-2|D3|
+000000684|7|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|5|5|-1|2|
+000000684|8|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
+000000684|9|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
+000000684|10|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
+000000684|11|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
+000000684|12|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6|5|4|0|1|
+000000684|12|2||Missile launcher – krak|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|9|-2|D6|
+000000684|13|1||Mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|5|0|1|
+000000684|14|1||Plasma gun – standard|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|7|-2|1|
+000000684|15|2||Plasma gun – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|8|-3|2|
+000000684|16|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
+000000684|16|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
+000000684|17|1||Sniper rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|4|4|-2|2|
+000000684|18|1||Chainsword||Melee|Melee|3|4|3|0|1|
+000000684|19|1||Close combat weapon||Melee|Melee|1|4|3|0|1|
+000000684|20|1||Power weapon||Melee|Melee|2|4|4|-2|1|
 000000686|1|1||Autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|5|9|-1|3|
 000000686|2|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|5|5|-1|2|
-000000686|3|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
-000000686|4|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
+000000686|3|1||Las small arms|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|18|Ranged|1|4|3|0|1|
+000000686|4|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
 000000686|5|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6|5|4|0|1|
 000000686|6|2||Missile launcher – krak|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|9|-2|D6|
 000000686|7|1||Mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|5|0|1|
@@ -2098,7 +2119,7 @@
 000000690|2|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000690|3|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
 000000690|4|1||Lascannon||48|Ranged|1|4|12|-3|D6+1|
-000000690|5|1||Multi-laser||36|Ranged|4|4|6|0|1|
+000000690|5|1||Militarum multi-laser||36|Ranged|4|4|6|0|1|
 000000690|6|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6|4|4|0|1|
 000000690|7|2||Missile launcher – krak|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|4|9|-2|D6|
 000000690|8|1||Plasma cannon – standard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|D3|4|7|-2|1|
@@ -2109,21 +2130,23 @@
 000000691|2|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000691|3|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
 000000691|4|1||Lascannon||48|Ranged|1|4|12|-3|D6+1|
-000000691|5|1||Multi-laser||36|Ranged|4|4|6|0|1|
+000000691|5|1||Militarum multi-laser||36|Ranged|4|4|6|0|1|
 000000691|6|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6|4|4|0|1|
 000000691|7|2||Missile launcher – krak|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|4|9|-2|D6|
 000000691|8|1||Plasma cannon – standard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|D3|4|7|-2|1|
 000000691|9|2||Plasma cannon – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>|36|Ranged|D3|4|8|-3|2|
 000000691|10|1||Close combat weapon||Melee|Melee|2|4|6|0|1|
 000000691|11|1||Sentinel chainsaw||Melee|Melee|3|4|6|-1|1|
-000000692|1|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
-000000692|2|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
-000000692|3|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
-000000692|4|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
-000000692|5|1||Lasgun array|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 6</a>|24|Ranged|6|4|3|0|1|
-000000692|6|1||Multi-laser||36|Ranged|4|4|6|0|1|
-000000692|7|1||Storm bolter|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 2</a>|24|Ranged|2|4|4|0|1|
-000000692|8|1||Armoured tracks||Melee|Melee|3|4|6|0|1|
+000000692|1|1||Chimera heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
+000000692|2|1||Chimera heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
+000000692|3|1||Chimera multi-laser||36|Ranged|4|4|6|0|1|
+000000692|4|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
+000000692|5|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
+000000692|6|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
+000000692|7|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
+000000692|8|1||Lasgun array|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 6</a>|24|Ranged|6|4|3|0|1|
+000000692|9|1||Storm bolter|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 2</a>|24|Ranged|2|4|4|0|1|
+000000692|10|1||Armoured tracks||Melee|Melee|3|4|6|0|1|
 000000693|1|1||Twin autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|2|4|9|-1|3|
 000000693|2|1||Storm bolter|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 2</a>|24|Ranged|2|4|4|0|1|
 000000693|3|1||Armoured tracks||Melee|Melee|3|4|6|0|1|
@@ -2135,7 +2158,7 @@
 000000694|6|1||Melta cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 4</a>|18|Ranged|D3|4|9|-4|D6|
 000000694|7|1||Multi-melta|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|18|Ranged|2|4|9|-4|D6|
 000000694|8|1||Armoured tracks||Melee|Melee|3|4|6|0|1|
-000000695|1|1||Earthshaker cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|240|Ranged|D6+3|4|8|-2|2|
+000000695|1|1||Earthshaker cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|240|Ranged|D6+3|4|8|-2|2|
 000000695|2|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
 000000695|3|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000695|4|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
@@ -2148,12 +2171,12 @@
 000000697|1|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
 000000697|2|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000697|3|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
-000000697|4|1||Wyvern quad stormshard mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|2D6|4|5|0|1|
+000000697|4|1||Wyvern quad stormshard mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|2D6|4|5|0|1|
 000000697|5|1||Armoured tracks||Melee|Melee|3|4|6|0|1|
 000000698|1|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
 000000698|2|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000698|3|1||Hunter-killer missile|one shot|48|Ranged|1|4|14|-3|D6|
-000000698|4|1||Storm eagle rockets|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|120|Ranged|D6|4|7|-2|3|
+000000698|4|1||Storm eagle rockets|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|120|Ranged|D6+1|4|10|-2|3|
 000000698|5|1||Armoured tracks||Melee|Melee|3|4|6|0|1|
 000000699|1|1||Deathstrike missile|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, one shot, plasma warhead|N/A|Ranged|2D6|2|16|-4|1|
 000000699|2|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
@@ -2171,7 +2194,7 @@
 000000700|9|2||Plasma cannon – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>|36|Ranged|D3|4|8|-3|2|
 000000700|10|1||Storm bolter|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 2</a>|24|Ranged|2|4|4|0|1|
 000000700|11|1||Armoured tracks||Melee|Melee|6|4|7|0|1|
-000000701|1|1||Demolisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6+1|4|14|-3|D6|
+000000701|1|1||Demolisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6+3|4|14|-3|D6|
 000000701|2|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
 000000701|3|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000701|4|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
@@ -2183,7 +2206,7 @@
 000000701|10|1||Storm bolter|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 2</a>|24|Ranged|2|4|4|0|1|
 000000701|11|1||Armoured tracks||Melee|Melee|6|4|7|0|1|
 000000702|1|1||Baneblade cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|72|Ranged|3D6|4|12|-2|3|
-000000702|2|1||Coaxial autocannon||48|Ranged|2|4|9|-1|3|
+000000702|2|1||Co-axial autocannon||48|Ranged|2|4|9|-1|3|
 000000702|3|1||Demolisher cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6+3|4|14|-3|D6|
 000000702|4|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
 000000702|5|1||Lascannon||48|Ranged|1|4|12|-3|D6+1|
@@ -2205,7 +2228,7 @@
 000000705|3|1||Twin heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|36|Ranged|3|4|5|-1|2|
 000000705|4|1||Twin heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|12|Ranged|D6|N/A|5|-1|1|
 000000705|5|1||Armoured tracks||Melee|Melee|6|4|8|0|1|
-000000706|1|1||Coaxial autocannon||48|Ranged|2|4|9|-1|3|
+000000706|1|1||Co-axial autocannon||48|Ranged|2|4|9|-1|3|
 000000706|2|1||Demolisher cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6+3|4|14|-3|D6|
 000000706|3|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
 000000706|4|1||Hellhammer cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|30|Ranged|4D6|4|7|-1|2|
@@ -2229,6 +2252,12 @@
 000000709|3|1||Twin heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|36|Ranged|3|4|5|-1|2|
 000000709|4|1||Twin heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|12|Ranged|D6|N/A|6|-1|1|
 000000709|5|1||Armoured tracks||Melee|Melee|6|4|8|0|1|
+000000713|1|1||Auto shotgun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|12|Ranged|3|3|4|0|2|
+000000713|2|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|7|-2|1|
+000000713|3|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|8|-3|2|
+000000713|4|1||Bionic arm with devil’s claw|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-monster 4+</a>|Melee|Melee|6|2|6|-2|2|
+000000714|1|1||Payback|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|3|5|-1|2|
+000000714|2|1||Close combat weapon||Melee|Melee|4|3|4|0|1|
 000000716|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|0|1|
 000000716|2|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|7|-2|1|
 000000716|3|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|8|-3|2|
@@ -2250,9 +2279,9 @@
 000000719|14|1||Tempestus dagger||Melee|Melee|4|3|3|0|1|
 000000721|1|1||Storm bolter|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 2</a>|24|Ranged|2|3|4|0|1|
 000000721|2|1||Taurox battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|D6|3|8|-1|2|
-000000721|3|1||Taurox gatling cannon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|24|Ranged|8|3|4|0|1|
-000000721|4|1||Taurox missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|D6|3|4|0|1|
-000000721|5|2||Taurox missile launcher – krak|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|1|3|9|-2|D6|
+000000721|3|1||Taurox gatling cannon||24|Ranged|12|3|4|0|1|
+000000721|4|1||Taurox missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|48|Ranged|2D6|3|4|0|1|
+000000721|5|2||Taurox missile launcher – krak||48|Ranged|2|3|9|-2|D6|
 000000721|6|1||Twin autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|2|3|9|-1|3|
 000000721|7|1||Twin Taurox hot-shot volley gun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|30|Ranged|3|3|4|-1|1|
 000000721|8|1||Armoured tracks||Melee|Melee|3|4|6|0|1|
@@ -2264,12 +2293,12 @@
 000000724|1|1||Tankstopper rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|36|Ranged|1|3|9|-3|D6|
 000000724|2|1||Sniper rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|3|4|-2|2|
 000000724|3|1||Close combat weapon||Melee|Melee|1|5|2|0|1|
-000000725|1|1||Ripper gun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|18|Ranged|3|3|5|-1|2|
+000000725|1|1||Ripper gun|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|18|Ranged|3|3|5|-1|2|
 000000725|2|1||Huge knife|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|6|2|8|-1|2|
 000000727|1|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
 000000727|2|1||Hellstrike missiles|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-fly 2+</a>|48|Ranged|1|4|10|-3|D6|
 000000727|3|1||Lascannon||48|Ranged|1|4|12|-3|D6+1|
-000000727|4|1||Multi-laser||36|Ranged|4|4|6|0|1|
+000000727|4|1||Militarum multi-laser||36|Ranged|4|4|6|0|1|
 000000727|5|1||Multiple rocket pod|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|D6|4|6|0|1|
 000000727|6|1||Armoured hull||Melee|Melee|3|4|6|0|1|
 000000728|1|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
@@ -2520,13 +2549,6 @@
 000000786|11|1||Twin heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">SUSTAINED HITS 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">TWIN-LINKED</a>|36|Ranged|3|4|5|-1|2|
 000000786|12|1||Twin heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">IGNORES COVER</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">TORRENT</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">TWIN-LINKED</a>|12|Ranged|D6|N/A|5|-1|1|
 000000786|13|1||Twin lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">TWIN-LINKED</a>|48|Ranged|1|4|12|-3|D6+1|
-000000824|6|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
-000000825|3|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
-000000825|7|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
-000000829|3|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
-000000830|2|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
-000000832|2|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
-000000833|2|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
 000000838|1|1||Solar atomiser|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta d3</a>|18|Ranged|D3|2|14|-4|3|
 000000838|2|1||Arc scourge|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-vehicle 4+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>|Melee|Melee|4|2|5|-1|1|
 000000838|3|1||Cawl’s Omnissian axe||Melee|Melee|4|2|8|-2|2|
@@ -2754,8 +2776,8 @@
 000000884|4|1||Twin heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|36|Ranged|3|2|5|-1|2|
 000000884|5|1||Armoured tracks||Melee|Melee|6|4|8|0|1|
 000000889|1|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|3|0|1|
-000000889|2|1||Psychic Maelstrom – witchfire|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|D6|3|5|-2|1|
-000000889|3|2||Psychic Maelstrom – focused witchfire|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|D6+1|3|6|-2|2|
+000000889|2|1||Psychic Maelstrom – witchfire|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|D6|3|6|-2|1|
+000000889|3|2||Psychic Maelstrom – focused witchfire|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|D6+3|3|6|-2|2|
 000000889|4|1||Force weapon|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|3|4|6|-1|D3|
 000000894|1|1||Power weapon||Melee|Melee|3|3|4|-2|2|
 000000895|1|1||Death Cult power blades|<a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|Melee|Melee|4|2|4|-2|1|
@@ -3743,13 +3765,6 @@
 000001237|2|1||Hellstrike missile|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-fly 2+</a>|48|Ranged|1|4|10|-3|D6|
 000001237|3|1||Multiple rocket pod|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|D6|4|6|0|1|
 000001237|4|1||Armoured hull||Melee|Melee|3|4|6|0|1|
-000001248|6|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
-000001248|7|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6|5|4|0|1|
-000001248|7|2||Missile launcher – krak|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|9|-2|D6|
-000001249|2|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
-000001254|2|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
-000001258|2|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
-000001259|2|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
 000001259|4|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
 000001293|1|1||Impaler harpoon|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-monster 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-vehicle 2+</a>, impaled|12|Ranged|1|3|12|-2|3|
 000001293|2|1||Slaughter blade||Melee|Melee|5|3|12|-3|3|
@@ -3983,15 +3998,22 @@
 000001393|2|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000001393|3|1||Twin shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|18|Ranged|2|3|4|-3|1|
 000001393|4|1||Wraithbone hull||Melee|Melee|3|4|6|0|1|
-000001394|1|1||Holy pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|3|4|4|0|1|
-000001394|2|1||Zealot’s vindictor|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|0|1|
-000001394|3|1||Power weapon||Melee|Melee|3|3|4|-2|1|
-000001394|4|1||Zealot’s vindictor||Melee|Melee|3|4|5|-1|2|
-000001396|1|1||Mechanicus pistol|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|6|0|1|
+000001394|1|1||Autogun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
+000001394|2|1||Holy pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|3|4|4|0|1|
+000001394|3|1||Preacher shotgun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|12|Ranged|2|4|4|0|1|
+000001394|4|1||Chainsword||Melee|Melee|4|4|3|0|1|
+000001394|5|1||Power weapon||Melee|Melee|3|4|4|-2|1|
+000001396|1|1||Archeotech pistol|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|6|0|1|
 000001396|2|1||Enginseer axe||Melee|Melee|3|4|6|-2|2|
 000001396|3|1||Servo-arm|<a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>|Melee|Melee|1|4|6|-2|2|
+000001397|1|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|6|5|-1|2|
+000001397|2|1||Multi-melta|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|18|Ranged|2|6|9|-4|D6|
+000001397|3|1||Plasma cannon – standard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|36|Ranged|D3|6|7|-2|1|
+000001397|4|2||Plasma cannon – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|36|Ranged|D3|6|8|-3|2|
+000001397|5|1||Close combat weapon||Melee|Melee|1|5|3|0|1|
+000001397|6|1||Servitor’s servo-arm||Melee|Melee|1|5|6|-2|3|
 000001398|1|1||Grenadier gauntlet|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|18|Ranged|D6|4|4|0|1|
-000001398|2|1||Ripper gun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|18|Ranged|3|4|5|-1|2|
+000001398|2|1||Ripper gun|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|18|Ranged|3|4|5|-1|2|
 000001398|3|1||Bullgryn maul||Melee|Melee|5|3|7|-1|2|
 000001398|4|1||Close combat weapon||Melee|Melee|4|3|6|0|1|
 000001398|5|1||Huge knife||Melee|Melee|6|3|8|-1|2|
@@ -4303,8 +4325,6 @@
 000001589|1|1||Heartstring lyre – cacophonous melody|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|6|3|6|0|1|
 000001589|2|2||Heartstring lyre – euphonic blast|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|24|Ranged|1|3|12|-3|D6+1|
 000001589|3|1||Ravaging claws|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|5|2|4|-1|1|
-000001592|1|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
-000001593|1|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
 000001596|1|1||Demolition charge|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, one shot|6|Ranged|D6+3|4|12|-2|2|
 000001596|2|1||Sniper rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|3|4|-2|2|
 000001596|3|1||Stub pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|0|1|
@@ -4365,8 +4385,6 @@
 000001611|3|2||Storm of the Emperor’s Wrath – focused witchfire|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|2D6|2|6|-2|2|
 000001611|4|1||Rod of Tigurius|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|5|3|7|-2|D3|
 000001630|1|1||Enormous claws||Melee|Melee|4|3|6|-2|D3|
-000001636|3|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
-000001638|1|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|2|4|3|0|1|
 000001647|1|1||Coiled tentacles|<a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>|Melee|Melee|D6|4|5|-1|2|
 000001647|2|1||Ravaging claws|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|8|2|4|-1|1|
 000001648|1|1||Lash of Slaanesh|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|12|Ranged|6|2|6|-1|2|
@@ -4998,70 +5016,68 @@
 000002530|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|0|1|
 000002530|2|1||Master-crafted scoped bolt carbine||24|Ranged|2|2|4|0|2|
 000002530|3|1||Paired combat blades|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|5|2|4|-1|1|
-000002531|1|1||Blaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|1|3|8|-4|D6+1|
-000002531|2|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-2|1|
-000002531|3|1||Shredder|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|18|Ranged|D6|N/A|6|0|1|
-000002531|4|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000002531|1|1||Corsair shredder|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|18|Ranged|D6|N/A|6|0|1|
+000002531|2|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|0|1|
+000002531|3|1||Corsair blaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|1|3|8|-4|D6+1|
+000002531|4|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000002531|5|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
 000002531|6|1||Shuriken rifle|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|3|4|-1|1|
-000002531|7|1||Wraithcannon||18|Ranged|1|3|14|-4|D6+1|
-000002531|8|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000002531|9|1||Power sword||Melee|Melee|2|3|4|-2|1|
-000002532|1|1||Blaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|1|3|8|-4|D6+1|
-000002532|2|1||Executioner|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|3|3|6|-2|D3|
-000002532|3|1||Fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|3|8|-4|D6|
-000002532|4|1||Long rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|3|4|-1|2|
-000002532|5|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-2|1|
-000002532|6|1||Shredder|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|18|Ranged|D6|N/A|6|0|1|
-000002532|7|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000002531|7|1||Wraithcannon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|18|Ranged|1|3|14|-4|D6|
+000002531|8|1||Close combat weapon||Melee|Melee|3|3|3|0|1|
+000002531|9|1||Aeldari power sword||Melee|Melee|2|3|4|-2|1|
+000002532|1|1||Corsair shredder|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|18|Ranged|D6|N/A|6|0|1|
+000002532|2|1||Corsair blaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|1|3|8|-4|D6+1|
+000002532|3|1||Executioner|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|18|Ranged|3|3|6|-2|D3|
+000002532|4|1||Fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|3|8|-4|D3|
+000002532|5|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|0|1|
+000002532|6|1||Ranger long rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|3|4|-1|2|
+000002532|7|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000002532|8|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
 000002532|9|1||Shuriken rifle|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|3|4|-1|1|
-000002532|10|1||Wraithcannon||18|Ranged|1|3|14|-4|D6+1|
-000002532|11|1||Close combat weapon||Melee|Melee|3|3|3|0|1|
-000002532|12|1||Paired Hekatarii blades|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|Melee|Melee|4|2|3|-2|1|
-000002532|13|1||Power sword||Melee|Melee|3|3|4|-2|1|
+000002532|10|1||Wraithcannon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|18|Ranged|1|3|14|-4|D6|
+000002532|11|1||Aeldari power sword||Melee|Melee|3|3|4|-2|1|
+000002532|12|1||Close combat weapon||Melee|Melee|3|3|3|0|1|
+000002532|13|1||Paired Hekatarii blades|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|Melee|Melee|4|2|3|-2|1|
 000002532|14|1||Witch staff|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|2|2|3|0|D3|
-000002533|1|1||Long rifle|<a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|2|4|-1|2|
-000002533|2|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
+000002533|1|1||Ranger long rifle|<a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|3|4|-1|2|
+000002533|2|1||Scatter laser||36|Ranged|6|3|5|0|1|
 000002533|3|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
 000002533|4|1||Close combat weapon||Melee|Melee|1|3|3|0|1|
-000002534|1|1||Fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|2|8|-4|D6|
-000002534|2|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-2|1|
+000002534|1|1||Fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|2|8|-4|D3|
+000002534|2|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|0|1|
 000002534|3|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
-000002534|4|1||Harlequin’s special weapon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|6|2|4|-1|2|
-000002534|5|1||Troupe Master’s blade|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|5|2|5|-2|2|
-000002535|1|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-2|1|
+000002534|4|1||Harlequin’s special weapon||Melee|Melee|5|2|4|-1|1|
+000002534|5|1||Troupe Master’s blade||Melee|Melee|6|2|4|-2|1|
+000002535|1|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|0|1|
 000002535|2|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
 000002535|3|1||Miststave|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|4|2|5|-1|D3|
-000002536|1|1||Fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|3|8|-4|D6|
-000002536|2|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-2|1|
+000002536|1|1||Fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|3|8|-4|D3|
+000002536|2|1||Neuro disruptor|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|0|1|
 000002536|3|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|-1|1|
-000002536|4|1||Harlequin’s blade|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|5|3|3|-1|1|
-000002536|5|1||Harlequin’s special weapon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|4|3|4|-1|1|
-000002536|6|1||Power sword|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|5|3|4|-2|1|
-000002537|1|1||Shrieker cannon||24|Ranged|3|2|6|-2|2|
+000002536|4|1||Aeldari power sword||Melee|Melee|5|3|4|-2|1|
+000002536|5|1||Harlequin’s blade||Melee|Melee|5|3|3|0|1|
+000002536|6|1||Harlequin’s special weapon||Melee|Melee|4|3|4|-1|1|
+000002537|1|1||Shrieker cannon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|24|Ranged|3|2|6|-1|2|
 000002537|2|1||Jester’s blade||Melee|Melee|4|2|4|0|1|
 000002538|1|1||Solitaire weapons|<a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|Melee|Melee|9|2|6|-2|2|
-000002539|1|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
-000002539|2|1||Skyweaver haywire cannon|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-vehicle 4+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|24|Ranged|2|3|3|-1|3|
-000002539|3|1||Star bolas||12|Ranged|D3|3|7|-2|2|
+000002539|1|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
+000002539|2|1||Star bolas||12|Ranged|D3|3|7|-2|2|
+000002539|3|1||Skyweaver haywire cannon|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-vehicle 4+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|24|Ranged|2|3|3|-1|3|
 000002539|4|1||Close combat weapon||Melee|Melee|4|3|3|0|1|
-000002539|5|1||Zephyrglaive||Melee|Melee|4|3|6|-2|2|
+000002539|5|1||Zephyrglaive||Melee|Melee|4|3|5|-1|2|
 000002540|1|1||Prismatic cannon – dispersed pulse|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|2D6|3|4|0|1|
 000002540|2|2||Prismatic cannon – focused lances||36|Ranged|2|3|12|-3|4|
-000002540|3|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000002540|3|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000002540|4|1||Voidweaver haywire cannon|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-vehicle 4+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|24|Ranged|3|3|4|-1|3|
 000002540|5|1||Close combat weapon||Melee|Melee|4|3|3|0|1|
-000002541|1|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
+000002541|1|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|24|Ranged|3|3|6|-1|2|
 000002541|2|1||Close combat weapon||Melee|Melee|4|3|3|0|1|
 000002542|1|1||Storm of Whispers|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|12|Ranged|D6+3|2|2|-2|1|
-000002542|2|1||Kha-vir|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|5|2|4|-3|2|
-000002543|1|1||Asu-var – quicksilver stance|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 2</a>|Melee|Melee|8|2|4|-1|1|
-000002543|2|2||Asu-var – duellist stance|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|Melee|Melee|6|2|5|-2|2|
-000002543|3|3||Asu-var – mythic stance|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-epic hero 2+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|Melee|Melee|4|2|3|-4|3|
+000002542|2|1||Kha-vir, the Sword of Sorrows|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|Melee|Melee|5|2|4|-3|2|
+000002543|1|1||Asu-var, the Sword of Silent Screams|<a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|Melee|Melee|5|2|5|-4|2|
 000002544|1|1||Swirling soul energy|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6+3|N/A|7|-1|D3|
-000002544|2|1||Vilith-zhar – strike||Melee|Melee|5|2|12|-4|D6+1|
-000002544|3|2||Vilith-zhar – sweep||Melee|Melee|10|2|6|-4|1|
+000002544|2|1||Vilith-zhar, the Sword of Souls – strike||Melee|Melee|5|2|12|-4|D6+1|
+000002544|3|2||Vilith-zhar, the Sword of Souls – sweep||Melee|Melee|10|2|6|-4|1|
 000002562|1|1||Daemonbreath meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|3|9|-4|D6|
 000002562|2|1||Diabolus heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|3|5|0|1|
 000002562|3|1||War Dog autocannon||48|Ranged|4|3|9|-1|3|
@@ -5267,15 +5283,39 @@
 000002605|3|1||Konstantin’s hooves|<a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>|Melee|Melee|2|4|4|0|1|
 000002606|1|1||Duty and Vengeance|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|4|3|5|-2|1|
 000002606|2|1||Power weapon||Melee|Melee|4|3|4|-2|1|
-000002607|1|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|3|4|0|1|
-000002607|2|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|0|1|
+000002607|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|4|0|1|
+000002607|2|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|3|4|0|1|
 000002607|3|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|3|0|1|
 000002607|4|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|7|-2|1|
 000002607|5|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|8|-3|2|
 000002607|6|1||Chainsword||Melee|Melee|5|3|3|0|1|
-000002607|7|1||Close combat weapon||Melee|Melee|3|4|3|0|1|
-000002607|8|1||Power fist||Melee|Melee|3|3|6|-2|2|
-000002607|9|1||Power weapon||Melee|Melee|4|3|4|-2|1|
+000002607|7|1||Power fist||Melee|Melee|3|3|6|-2|2|
+000002607|8|1||Power weapon||Melee|Melee|4|3|4|-2|1|
+000002607|9|1||Close combat weapon||Melee|Melee|2|4|3|0|1|
+000002608|1|1||Autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|5|9|-1|3|
+000002608|2|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
+000002608|3|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
+000002608|4|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
+000002608|5|1||Grenade launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D3|4|4|0|1|
+000002608|6|2||Grenade launcher – krak||24|Ranged|1|4|9|-2|D3|
+000002608|7|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|5|5|-1|2|
+000002608|8|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
+000002608|9|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
+000002608|10|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
+000002608|11|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
+000002608|12|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
+000002608|13|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">BLAST</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">HEAVY</a>|48|Ranged|D6|5|4|0|1|
+000002608|13|2||Missile launcher – krak |<a href="/wh40k10ed/the-rules/core-rules/#Heavy">HEAVY</a>|48|Ranged|1|5|9|-2|D6|
+000002608|14|1||Mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|5|0|1|
+000002608|15|1||Plasma gun – standard|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|7|-2|1|
+000002608|16|2||Plasma gun – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|8|-3|2|
+000002608|17|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
+000002608|17|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
+000002608|18|1||Sniper rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|4|4|-2|2|
+000002608|19|1||Chainsword||Melee|Melee|3|4|3|0|1|
+000002608|20|1||Close combat weapon||Melee|Melee|2|4|3|0|1|
+000002608|21|1||Power fist||Melee|Melee|3|4|6|-2|2|
+000002608|22|1||Power weapon||Melee|Melee|3|4|4|-2|1|
 000002609|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|4|0|1|
 000002609|2|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
 000002609|3|1||Grenade launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D3|4|4|0|1|
@@ -5291,16 +5331,19 @@
 000002609|12|1||Close combat weapon||Melee|Melee|2|4|3|0|1|
 000002609|13|1||Power fist||Melee|Melee|3|4|6|-2|2|
 000002609|14|1||Power weapon||Melee|Melee|3|4|4|-2|1|
+000002610|1|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
+000002610|2|1||Close combat weapon||Melee|Melee|1|4|3|0|1|
+000002610|3|1||Astropath’s stave|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|Melee|Melee|1|4|6|-1|D3|
 000002612|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|4|0|1|
-000002612|2|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
-000002612|3|1||Grenade launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D3|4|4|0|1|
-000002612|4|2||Grenade launcher – krak||24|Ranged|1|4|9|-2|D3|
-000002612|5|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
-000002612|6|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
-000002612|7|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
-000002612|8|1||Plasma gun – standard|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|7|-2|1|
-000002612|9|2||Plasma gun – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|8|-3|2|
-000002612|10|1||Sergeant's autogun||24|Ranged|2|4|3|0|1|
+000002612|2|1||Drum-fed autogun||24|Ranged|2|4|3|0|1|
+000002612|3|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
+000002612|4|1||Grenade launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D3|4|4|0|1|
+000002612|5|2||Grenade launcher – krak||24|Ranged|1|4|9|-2|D3|
+000002612|6|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
+000002612|7|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
+000002612|8|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
+000002612|9|1||Plasma gun – standard|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|7|-2|1|
+000002612|10|2||Plasma gun – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|8|-3|2|
 000002612|11|1||Chainsword||Melee|Melee|3|4|3|0|1|
 000002612|12|1||Close combat weapon||Melee|Melee|1|4|3|0|1|
 000002613|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
@@ -5310,12 +5353,12 @@
 000002613|5|2||Grenade launcher – krak||24|Ranged|1|4|9|-2|D3|
 000002613|6|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
 000002613|7|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
-000002613|8|1||Long-las|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|4|4|-2|2|
-000002613|9|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
-000002613|10|1||Plasma gun – standard|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|7|-2|1|
-000002613|11|2||Plasma gun – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|8|-3|2|
-000002613|12|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
-000002613|12|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
+000002613|8|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
+000002613|9|1||Plasma gun – standard|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|7|-2|1|
+000002613|10|2||Plasma gun – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|8|-3|2|
+000002613|11|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
+000002613|11|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
+000002613|12|1||Sniper rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|4|4|-2|2|
 000002613|13|1||Chainsword||Melee|Melee|3|4|3|0|1|
 000002613|14|1||Close combat weapon||Melee|Melee|1|4|3|0|1|
 000002613|15|1||Power weapon||Melee|Melee|2|4|4|-2|1|
@@ -5347,7 +5390,7 @@
 000002616|6|1||Power sabre||Melee|Melee|4|3|4|-2|1|
 000002616|7|1||Steed’s hooves|<a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>|Melee|Melee|2|4|4|0|1|
 000002617|1|1||Castigator gatling cannon||24|Ranged|12|4|5|0|1|
-000002617|2|1||Coaxial autocannon||48|Ranged|2|4|9|-1|3|
+000002617|2|1||Co-axial autocannon||48|Ranged|2|3|9|-1|3|
 000002617|3|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
 000002617|4|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
 000002617|5|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
@@ -5356,6 +5399,12 @@
 000002617|8|1||Pulveriser cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6|4|9|-3|3|
 000002617|9|1||Twin battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|D6+3|4|10|-1|3|
 000002617|10|1||Armoured tracks||Melee|Melee|6|4|7|0|1|
+000002618|1|1||Bombast field gun|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|7|-1|2|
+000002618|2|1||Heavy lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|5|14|-3|D6+1|
+000002618|3|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
+000002618|4|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
+000002618|5|1||Malleus rocket launcher|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6+6|5|6|-1|1|
+000002618|6|1||Battery close combat weapons||Melee|Melee|3|4|3|0|1|
 000002621|1|1||Samni’arius and Spinegrinder – strike||Melee|Melee|8|2|16|-4|D6+2|
 000002621|2|2||Samni’arius and Spinegrinder – sweep||Melee|Melee|18|2|8|-2|2|
 000002622|1|1||Khârn’s plasma pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|8|-3|2|
@@ -5854,15 +5903,15 @@
 000002758|1|1||Infernal cannon||24|Ranged|3|2|5|-1|2|
 000002758|2|1||Hellforged weapons – strike||Melee|Melee|6|2|8|-2|3|
 000002758|3|2||Hellforged weapons – sweep||Melee|Melee|14|2|6|0|1|
-000002759|1|1||Death spinner|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|-1|1|
+000002759|1|1||Death spinner|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
 000002759|2|1||Dragon fusion gun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>|12|Ranged|1|2|9|-4|D6|
-000002759|3|1||Dragon fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|2|9|-4|D6|
-000002759|4|1||Reaper launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|1|3|10|-2|3|
-000002759|5|2||Reaper launcher – starswarm|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|48|Ranged|2|3|4|-2|1|
+000002759|3|1||Fusion pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|2|8|-4|D3|
+000002759|4|1||Reaper launcher – starshot|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|3|8|-2|2|
+000002759|5|2||Reaper launcher – starswarm|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|3|5|-1|1|
 000002759|6|1||Shuriken pistol|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|4|-1|1|
-000002759|7|1||Banshee blade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|5|2|4|-2|2|
-000002759|8|1||Scorpion chainsword|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|7|2|4|-1|1|
-000002759|9|1||Star glaive||Melee|Melee|4|2|6|-3|3|
+000002759|7|1||Star glaive||Melee|Melee|5|3|6|-2|2|
+000002759|8|1||Banshee blade||Melee|Melee|5|2|4|-3|1|
+000002759|9|1||Scorpion chainsword|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|6|2|5|0|1|
 000002760|1|1||Combi-weapon|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 4+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|3|4|-2|1|
 000002760|2|1||Psycannon|<a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>|24|Ranged|3|3|8|-1|2|
 000002760|3|1||Psychic shock wave|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Psychic-Weapons-and-Abilities">psychic</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|18|Ranged|2D6|N/A|3|-2|1|
@@ -6380,14 +6429,40 @@
 000003716|2|1||Hand flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|3|0|1|
 000003716|3|1||Cult claws and knife||Melee|Melee|3|3|4|-1|1|
 000003716|4|1||Leader’s bio-weapons||Melee|Melee|5|3|5|-2|1|
-000003717|7|1||Close combat weapon||Melee|Melee|3|4|3|0|1|
+000003717|9|1||Close combat weapon||Melee|Melee|2|4|3|0|1|
 000003718|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|4|0|1|
 000003718|10|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
 000003718|10|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
+000003719|1|1||Autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|5|9|-1|3|
+000003719|2|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
+000003719|3|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
+000003719|8|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
+000003719|9|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
+000003719|13|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">BLAST</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">HEAVY</a>|48|Ranged|D6|5|4|0|1|
+000003719|13|2||Missile launcher – krak |<a href="/wh40k10ed/the-rules/core-rules/#Heavy">HEAVY</a>|48|Ranged|1|5|9|-2|D6|
+000003719|14|1||Mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|5|0|1|
+000003719|17|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
+000003719|17|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
+000003721|1|1||Demolisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6+3|4|14|-3|D6|
+000003721|2|1||Eradicator nova cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|36|Ranged|D3+6|4|7|-1|2|
+000003721|3|1||Executioner plasma cannon – standard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|D6+3|4|7|-2|2|
+000003721|3|2||Executioner plasma cannon – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>|36|Ranged|D6+3|4|8|-3|3|
+000003721|4|1||Exterminator autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 4</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|4|4|9|-1|3|
+000003721|14|1||Punisher gatling cannon||24|Ranged|20|4|5|0|1|
+000003721|16|1||Vanquisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|72|Ranged|1|4|18|-4|D6+6|
 000003728|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
 000003728|2|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
-000003728|12|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
-000003728|12|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
+000003728|11|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
+000003728|11|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
+000003729|1|1||Autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|5|9|-1|3|
+000003729|2|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
+000003729|3|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
+000003729|8|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
+000003729|12|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6|5|4|0|1|
+000003729|12|2||Missile launcher – krak|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|9|-2|D6|
+000003729|13|1||Mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|5|0|1|
+000003729|16|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
+000003729|16|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
 000003752|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
 000003752|12|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
 000003752|12|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
@@ -6572,7 +6647,7 @@
 000003834|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
 000003834|2|1||Hot-shot lascarbine|<a href="/wh40k10ed/the-rules/core-rules/#Assault">ASSAULT</a>|18|Ranged|2|3|3|-1|1|
 000003834|3|1||Hot-shot laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|3|-1|1|
-000003834|4|1||Hot-shot long-las|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">HEAVY</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">PRECISION</a>|36|Ranged|1|3|4|-2|3|
+000003834|4|1||Hot‑shot long‑las|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">HEAVY</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">PRECISION</a>|36|Ranged|1|3|4|-2|3|
 000003834|5|1||Sentry flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">IGNORES COVER</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">TORRENT</a>|12|Ranged|D6+3|N/A|4|0|1|
 000003834|6|1||Sentry grenade launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D3+3|4|4|0|1|
 000003834|7|2||Sentry grenade launcher – krak||24|Ranged|2|4|9|-2|D3|
@@ -6662,160 +6737,3 @@
 000003876|16|1||Nostraman chainglaive|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|Melee|Melee|4|3|8|-2|1|
 000003876|17|1||Paired accursed weapons|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|Melee|Melee|4|3|5|-2|1|
 000003876|18|1||Power fist||Melee|Melee|3|3|8|-2|2|
-000003889|1|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
-000003889|2|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|4|0|1|
-000003889|3|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
-000003889|4|1||Grenade launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D3|4|4|0|1|
-000003889|5|2||Grenade launcher – krak||24|Ranged|1|4|9|-2|D3|
-000003889|6|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
-000003889|7|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
-000003889|8|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
-000003889|9|1||Plasma gun – standard|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|7|-2|1|
-000003889|10|2||Plasma gun – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|8|-3|2|
-000003889|11|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
-000003889|11|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
-000003889|12|1||Chainsword||Melee|Melee|4|4|3|0|1|
-000003889|13|1||Close combat weapon||Melee|Melee|2|4|3|0|1|
-000003889|14|1||Power fist||Melee|Melee|3|4|6|-2|2|
-000003889|15|1||Power weapon||Melee|Melee|3|4|4|-2|1|
-000003889|16|1||Trench club||Melee|Melee|3|4|4|0|1|
-000003890|1|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|3|0|1|
-000003890|2|1||Sabre of Sacrifice|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 4+</a>|Melee|Melee|6|2|6|-2|1|
-000003890|3|1||Savage claws|<a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>|Melee|Melee|2|4|4|-1|1|
-000003891|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
-000003891|2|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
-000003891|3|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
-000003891|4|1||Grenade launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D3|4|4|0|1|
-000003891|5|2||Grenade launcher – krak||24|Ranged|1|4|9|-2|D3|
-000003891|6|1||Heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|5|-1|1|
-000003891|7|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
-000003891|8|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
-000003891|9|1||Meltagun|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|12|Ranged|1|4|9|-4|D6|
-000003891|10|1||Plasma gun – standard|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|7|-2|1|
-000003891|11|2||Plasma gun – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|8|-3|2|
-000003891|12|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
-000003891|12|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
-000003891|13|1||Sniper rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|4|4|-2|2|
-000003891|14|1||Chainsword||Melee|Melee|4|4|3|0|1|
-000003891|15|1||Close combat weapon||Melee|Melee|2|4|3|0|1|
-000003891|16|1||Power fist||Melee|Melee|3|4|6|-2|2|
-000003891|17|1||Power weapon||Melee|Melee|3|4|4|-2|1|
-000003892|1|1||Castigator gatling cannon||24|Ranged|12|4|5|0|1|
-000003892|2|1||Coaxial autocannon||48|Ranged|2|4|9|-1|3|
-000003892|3|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|5|-1|2|
-000003892|4|1||Heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>|36|Ranged|3|4|4|0|1|
-000003892|6|1||Multi-melta|<a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 2</a>|18|Ranged|2|4|9|-4|D6|
-000003892|7|1||Oppressor cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|72|Ranged|D6+3|4|12|-2|3|
-000003892|8|1||Pulveriser cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6|4|9|-3|3|
-000003892|9|1||Twin battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|D6+3|4|10|-1|3|
-000003892|10|1||Armoured tracks||Melee|Melee|6|4|7|0|1|
-000003893|1|1||Autopistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
-000003893|2|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
-000003893|3|1||Combat shotgun|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|12|Ranged|2|4|4|0|1|
-000003893|4|1||Flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|4|0|1|
-000003893|5|1||Hand flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|12|Ranged|D6|N/A|3|0|1|
-000003893|6|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
-000003893|6|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
-000003893|7|1||Chainsword||Melee|Melee|4|4|3|0|1|
-000003893|8|1||Close combat weapon||Melee|Melee|2|4|3|0|1|
-000003893|9|1||Power weapon||Melee|Melee|3|4|4|-2|1|
-000003893|10|1||Trench club||Melee|Melee|2|4|4|0|1|
-000003894|1|1||Autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|5|9|-1|3|
-000003894|2|1||Heavy bolter|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|5|5|-1|2|
-000003894|3|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
-000003894|4|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
-000003894|5|1||Missile launcher – frag|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6|5|4|0|1|
-000003894|6|2||Missile launcher – krak|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|9|-2|D6|
-000003894|7|1||Mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|5|0|1|
-000003894|8|1||Weapons team close combat weapons||Melee|Melee|2|4|3|0|1|
-000003895|1|1||Krieg heavy flamer|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|18|Ranged|D6|N/A|5|-1|2|
-000003895|2|1||Lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|1|5|12|-3|D6+1|
-000003895|3|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
-000003895|4|1||Twin Krieg heavy stubber|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 3</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|3|5|6|-1|1|
-000003895|5|1||Close combat weapon||Melee|Melee|1|4|3|0|1|
-000003896|1|1||Heavy mortar|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6+3|5|8|-1|2|
-000003896|2|1||Heavy quad launcher|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|2D6|5|5|0|1|
-000003896|3|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
-000003896|4|1||Multiple rocket launcher|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6+3|5|2|-1|1|
-000003896|5|1||Siege cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|12|-2|3|
-000003896|6|1||Crew close combat weapons||Melee|Melee|3|4|3|0|1|
-000003897|1|1||Bombast field gun|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6|5|7|-1|2|
-000003897|2|1||Heavy lascannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|2|5|14|-3|D6+1|
-000003897|3|1||Lasgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|3|0|1|
-000003897|4|1||Laspistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|3|0|1|
-000003897|5|1||Malleus rocket launcher|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|48|Ranged|D6+6|5|6|-1|1|
-000003897|6|1||Battery close combat weapons||Melee|Melee|3|4|3|0|1|
-000003898|1|1||Death Rider lascarbine|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|2|4|3|0|1|
-000003898|2|1||Frag lance|<a href="/wh40k10ed/the-rules/core-rules/#Lance">lance</a>|Melee|Melee|D6|3|4|0|1|
-000003898|3|1||Power sabre||Melee|Melee|3|3|4|-2|1|
-000003898|4|1||Steed's savage claws|<a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>|Melee|Melee|2|4|4|-1|1|
-000003899|1|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
-000003899|2|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
-000003899|12|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
-000003899|12|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
-000003899|13|1||Sniper rifle|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Precision">precision</a>|36|Ranged|1|4|4|-2|2|
-000003900|1|1||Boltgun|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>|24|Ranged|1|4|4|0|1|
-000003900|2|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|4|0|1|
-000003900|11|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
-000003900|11|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
-000003901|1|1||Demolisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|24|Ranged|D6+1|4|14|-3|D6|
-000003901|2|1||Eradicator nova cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>|36|Ranged|D3+6|4|7|-1|2|
-000003901|3|1||Executioner plasma cannon – standard|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>|36|Ranged|D6+3|4|7|-2|2|
-000003901|3|2||Executioner plasma cannon – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>|36|Ranged|D6+3|4|8|-3|3|
-000003901|4|1||Exterminator autocannon|<a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 4</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|48|Ranged|4|4|9|-1|3|
-000003901|5|1||Punisher gatling cannon||24|Ranged|20|4|6|0|1|
-000003901|15|1||Vanquisher battle cannon|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|72|Ranged|1|4|18|-4|D6+6|
-000003907|2|1||Bolt pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">PISTOL</a>|12|Ranged|1|4|4|0|1|
-000003907|6|1||Plasma pistol – standard|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|7|-2|1|
-000003907|6|2||Plasma pistol – supercharge|<a href="/wh40k10ed/the-rules/core-rules/#Hazardous">hazardous</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|4|8|-3|2|
-000003909|1|1||Brood Twain|<a href="/wh40k10ed/the-rules/core-rules/#Ignores-Cover">ignores cover</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|12|Ranged|D6+3|N/A|6|-2|1|
-000003909|2|1||Spider’s Fangs|<a href="/wh40k10ed/the-rules/core-rules/#Extra-Attacks">extra attacks</a>, <a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|Melee|Melee|5|2|4|-2|1|
-000003909|3|1||Weaverender|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|Melee|Melee|5|2|6|-2|2|
-000003910|1|1||D-cannon|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|24|Ranged|D3|3|16|-4|D6+2|
-000003910|2|1||Shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|2|3|4|-1|1|
-000003910|3|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000003911|1|1||Shadow weaver|<a href="/wh40k10ed/the-rules/core-rules/#Blast">blast</a>, <a href="/wh40k10ed/the-rules/core-rules/#Indirect-Fire">indirect fire</a>|48|Ranged|D6+2|3|6|-1|1|
-000003911|2|1||Shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|2|3|4|-1|1|
-000003911|3|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000003912|1|1||Shuriken catapult|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|2|3|4|-1|1|
-000003912|2|1||Vibro cannon||48|Ranged|D6|3|9|-1|2|
-000003912|3|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000003913|1|1||Heavy wraithcannon|<a href="/wh40k10ed/the-rules/core-rules/#Devastating-Wounds">devastating wounds</a>|36|Ranged|D3|3|20|-4|2D6|
-000003913|2|1||Scatter laser|<a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|6|3|5|0|1|
-000003913|3|1||Shuriken cannon|<a href="/wh40k10ed/the-rules/core-rules/#Lethal-Hits">lethal hits</a>|24|Ranged|3|3|6|-1|2|
-000003913|4|1||Starcannon||36|Ranged|2|3|8|-3|2|
-000003913|5|1||Titanic ghostglaive – strike||Melee|Melee|5|3|16|-3|6|
-000003913|6|2||Titanic ghostglaive – sweep||Melee|Melee|15|3|8|-2|2|
-000003914|1|1||Blast pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|2|8|-3|D3|
-000003914|2|1||Splinter pistol|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|2|0|1|
-000003914|3|1||Huskblade|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|5|2|3|-2|2|
-000003915|1|1||Blast pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|2|8|-3|D3|
-000003915|2|1||Splinter pistol|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|2|2|0|1|
-000003915|3|1||Succubus weapons|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|6|2|3|-2|1|
-000003916|1|1||Blast pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|3|8|-3|D3|
-000003916|2|1||Blaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|1|3|8|-4|D6+1|
-000003916|3|1||Dark lance|<a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>|36|Ranged|1|4|12|-3|D6+2|
-000003916|4|1||Shredder|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Torrent">torrent</a>|18|Ranged|D6|N/A|6|0|1|
-000003916|5|1||Splinter cannon|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Heavy">heavy</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|4|3|-1|2|
-000003916|6|1||Splinter pistol|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|2|0|1|
-000003916|7|1||Splinter rifle|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|24|Ranged|2|3|2|0|1|
-000003916|8|1||Close combat weapon||Melee|Melee|2|3|3|0|1|
-000003916|9|1||Sybarite weapon|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|3|3|3|-1|1|
-000003917|1|1||Blast pistol|<a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|6|Ranged|1|3|8|-4|D3|
-000003917|2|1||Splinter pistol|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|2|0|1|
-000003917|3|1||Hekatarii blade||Melee|Melee|3|3|3|-1|1|
-000003918|1|1||Demiklaives – single blade||Melee|Melee|3|3|4|-2|2|
-000003918|2|2||Demiklaives – dual blades|<a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|Melee|Melee|6|3|4|-1|1|
-000003918|3|1||Klaive||Melee|Melee|3|3|4|-2|2|
-000003919|1|1||Blaster|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|18|Ranged|1|3|8|-4|D6+1|
-000003919|2|1||Heat lance|<a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Melta">melta 3</a>|18|Ranged|1|3|14|-4|D6|
-000003919|3|1||Splinter pistol|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Pistol">pistol</a>|12|Ranged|1|3|2|0|1|
-000003919|4|1||Splinter rifle|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>|24|Ranged|2|3|2|0|1|
-000003919|5|1||Agoniser|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>|Melee|Melee|4|3|3|-1|1|
-000003919|6|1||Bladevanes||Melee|Melee|3|3|4|0|1|
-000003920|1|1||Dark lance||36|Ranged|1|3|12|-3|D6+2|
-000003920|2|1||Disintegrator cannon||36|Ranged|3|3|5|-2|2|
-000003920|3|1||Bladevanes||Melee|Melee|3|4|6|0|1|
-000003921|1|1||Splinter cannon|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Sustained-Hits">sustained hits 1</a>|36|Ranged|3|3|3|-1|2|
-000003921|2|1||Twin splinter rifle|<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 3+</a>, <a href="/wh40k10ed/the-rules/core-rules/#Assault">assault</a>, <a href="/wh40k10ed/the-rules/core-rules/#Rapid-Fire">rapid fire 1</a>, <a href="/wh40k10ed/the-rules/core-rules/#Twin-linked">twin-linked</a>|24|Ranged|2|3|2|0|1|
-000003921|3|1||Bladevanes||Melee|Melee|3|4|5|0|1|
