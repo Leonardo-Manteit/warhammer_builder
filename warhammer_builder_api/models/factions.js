@@ -104,8 +104,8 @@ async function getDetachmentEnhancements(file, factionId) {
             let detachmentRule = await getDetachmentAbilties(filesArray[11], factionId, detachment)
             if (detachmentRule) {
                 enhancementChoices[detachment] = [
-                    detachmentRule[1],
-                    detachmentRule[0] !== null ? detachmentRule[0] : undefined,
+                    detachmentRule[0],
+                    detachmentRule[1] !== null ? detachmentRule[1] : undefined,
                     [enhancement[2],enhancement[6], enhancement[3]]
             ].filter(item => item !== undefined);
         } else {

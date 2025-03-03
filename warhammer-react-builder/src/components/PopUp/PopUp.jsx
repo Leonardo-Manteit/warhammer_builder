@@ -21,7 +21,7 @@ export default function PopUp({trigger, setTrigger, setCreate,
         setSelectedArmy()
         setselectedSubFaction()
         setArmyName('')
-        setPointLimit(1000)
+        setPointLimit(2000)
     }
 
     function handleSubmit(e) {
@@ -100,16 +100,17 @@ export default function PopUp({trigger, setTrigger, setCreate,
                 <label htmlFor="">Army Name <span className={styles.Span}>- 20 char limit</span></label>
                 <div className={styles.bar} style={{ width: barWidth+"%"}}></div>
                 <textarea onChange={handlesetArmyName} className={styles.Textarea} maxLength={20}></textarea>
-                <label htmlFor="">Select points limit</label>
-                <select name="" id="" onChange={(e) => {setPointLimit(e.target.value); setRemainingPoints(e.target.value)}} className={styles.dropdown}>
-                    <option value="500">500 pts</option>
-                    <option value="1000">1000 pts</option>
-                    <option value="1500">1500 pts</option>
-                    <option value="2000">2000 pts</option>
-                    <option value="2500">2500 pts</option>
-                    <option value="3000">3000 pts</option>
-                    <option value="10000">10000 pts</option>
-                </select>
+                <label htmlFor="">Create points limit</label>
+                <input
+                type="number"
+                min="1"
+                defaultValue="2000"
+                onChange={(e) => {
+                    setPointLimit(e.target.value);
+                    setRemainingPoints(e.target.value);
+                }}
+                className={styles.dropdown}
+                />
                 {(selectedArmy && selectedArmy?.faction_id !=='SM' && selectedSubFaction) || (selectedArmy?.faction_id === 'SM' && selectedChapter !== 'None' && selectedSubFaction) 
                 ? <button className={styles.createBtn} style={{backgroundColor: colour, fontWeight: '700'}}>Muster Army</button>
                 : <div>Missing Selection</div>}

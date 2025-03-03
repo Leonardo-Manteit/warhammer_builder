@@ -18,7 +18,7 @@ function App() {
   const [selectedArmy, setSelectedArmy] = useState()
   const [selectedSubFaction, setselectedSubFaction] = useState()
   const [armyName, setArmyName] = useState('')
-  const [pointLimit, setPointLimit] = useState(500)
+  const [pointLimit, setPointLimit] = useState(2000)
   const [colour, setColour] = useState('#dadada')
   const [usersArmy, setUsersArmy] = useState([])
   const [remainingPoints ,setRemainingPoints] = useState(pointLimit)
@@ -64,9 +64,9 @@ function App() {
     setSelectedArmy()
     setArmyName('')
     setUsersArmy([])
-    setPointLimit(500)
-    setRemainingPoints(500)
-    setSelectedEnhancement()
+    setPointLimit(2000)
+    setRemainingPoints(2000)
+    setSelectedEnhancement([])
   }
   function handleSave() {
     if (user && user.email !== 'Demo') {
