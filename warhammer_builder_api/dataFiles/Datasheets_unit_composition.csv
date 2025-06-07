@@ -413,7 +413,6 @@
 000000583|1|1 Farseer Skyrunner|
 000000584|1|2-4 Warlocks|
 000000585|1|1 Warlock|
-000000586|1|2-3 Warlock Skyrunners|
 000000587|1|1-2 Warlock Skyrunners|
 000000588|1|1 Spiritseer|
 000000589|1|10 Guardian Defenders|
@@ -531,6 +530,8 @@
 000000707|1|1 Shadowsword|
 000000708|1|1 Stormlord|
 000000709|1|1 Stormsword|
+000000713|1|1 ‘Iron Hand’ Straken – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000000714|1|1 Sergeant Harker – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000000716|1|1 Commissar|
 000000719|1|1 Tempestor Prime|
 000000719|2|4 Tempestus Scions|
@@ -696,8 +697,6 @@
 000000946|2|9-19 Chaos Cultists|
 000000947|1|1 Terminator Champion|
 000000947|2|4-9 Chaos Terminators|
-000000951|1|1 Noise Champion|
-000000951|2|4-9 Noise Marines|
 000000952|1|1 Chosen Champion|
 000000952|2|4-9 Chosen|
 000000953|1|1 Possessed Champion|
@@ -891,7 +890,6 @@
 000001346|1|1 Lieutenant|
 000001347|1|1 Land Raider Prometheus|
 000001348|1|1 Librarian on Bike|
-000001354|1|1 Lucius the Eternal – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000001355|1|1 Exalted Champion|
 000001360|1|1 Grand Master in Nemesis Dreadknight|
 000001361|1|1 Brotherhood Librarian|
@@ -922,6 +920,7 @@
 000001393|1|1 Firestorm|
 000001394|1|1 Ministorum Priest|
 000001396|1|1 Tech-Priest Enginseer|
+000001397|1|4 Munitorum Servitors|
 000001398|1|1 Ogryn Bodyguard|
 000001400|1|1 Bonesinger|
 000001406|1|1 Sly Marbo – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
@@ -1137,10 +1136,6 @@
 000002377|1|3 Elysian Sniper Teams|
 000002378|1|1 Death Rider Commissar|
 000002379|1|1 Storm Chimera|
-000002385|1|1 Death Korps Marshal|
-000002386|1|1 Death Rider Squadron Commander|
-000002389|1|1 Ridemaster|
-000002389|2|4-9 Death Riders|
 000002453|1|1 Mega Dread|
 000002459|1|2 Wraithbone Arches|
 000002460|1|1 Lord of Virulence|
@@ -1274,6 +1269,7 @@
 000002607|1|1 Cadian Castellan|
 000002609|1|1 Cadian Commander|
 000002609|2|4 Cadian Veteran Guardsmen|
+000002610|1|1 Master of Ordnance, 1 Officer of the Fleet and 1 Astropath.|
 000002612|1|1 Shock Trooper Sergeant and 9 Shock Troopers|
 000002612|2|OR|
 000002612|3|2 Shock Trooper Sergeants and 18 Shock Troopers|
@@ -1292,30 +1288,30 @@
 000002621|1|1 Angron – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002622|1|1 Khârn the Betrayer – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002623|1|1 Lord Invocatus – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000002624|1|1 World Eaters Daemon Prince|
-000002625|1|1 World Eaters Lord on Juggernaut|
-000002626|1|1 World Eaters Master of Executions|
+000002624|1|1 Daemon Prince of Khorne|
+000002625|1|1 Lord on Juggernaut|
+000002626|1|1 Master of Executions|
 000002627|1|1 Khorne Berzerker Champion|
-000002627|2|4-9 Khorne Berzerkers|
+000002627|2|9-19 Khorne Berzerkers|
 000002628|1|1 Jakhal Pack Leader, 1 Dishonoured and 8 Jakhals|
 000002628|2|or:|
 000002628|3|1 Jakhal Pack Leader, 2 Dishonoured and 17 Jakhals|
-000002629|1|1 World Eaters Terminator Champion|
-000002629|2|4-9 World Eaters Terminators|
+000002629|1|1 Terminator Champion|
+000002629|2|4-9 Chaos Terminators|
 000002630|1|1 Eightbound Champion|
 000002630|2|2-5 Eightbound|
 000002631|1|1 Exalted Eightbound Champion|
 000002631|2|2-5 Exalted Eightbound|
-000002632|1|1 World Eaters Helbrute|
+000002632|1|1 Helbrute|
 000002633|1|2 Chaos Spawn|
-000002634|1|1 World Eaters Land Raider|
-000002635|1|1 World Eaters Defiler|
-000002636|1|1 World Eaters Predator Destructor|
-000002637|1|1 World Eaters Predator Annihilator|
-000002638|1|1 World Eaters Forgefiend|
-000002639|1|1 World Eaters Maulerfiend|
-000002640|1|1 World Eaters Rhino|
-000002641|1|1 World Eaters Heldrake|
+000002634|1|1 Chaos Land Raider|
+000002635|1|1 Defiler|
+000002636|1|1 Chaos Predator Destructor|
+000002637|1|1 Chaos Predator Annihilator|
+000002638|1|1 Forgefiend|
+000002639|1|1 Maulerfiend|
+000002640|1|1 Chaos Rhino|
+000002641|1|1 Heldrake|
 000002642|1|1 Khorne Lord of Skulls|
 000002677|1|1 Ancient in Terminator Armour|
 000002678|1|1 Chaplain Cassius – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
@@ -1395,7 +1391,6 @@
 000002745|1|1 Leman Russ Vanquisher|
 000002746|1|1 Tempestor|
 000002746|2|4-9 Tempestus Scions|
-000002747|1|1 Thunderbolt Heavy Fighter|
 000002748|1|1 Ravenwing Champion|
 000002748|2|1 Ravenwing Apothecary|
 000002748|3|1 Ravenwing Ancient|
@@ -1407,7 +1402,7 @@
 000002754|1|1 Ahriman – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000002755|1|1 Exalted Sorcerer|
 000002756|1|1 Thousand Sons Daemon Prince with Wings|
-000002757|1|1 World Eaters Daemon Prince with Wings|
+000002757|1|1 Daemon Prince of Khorne with Wings|
 000002758|1|1 Daemon Prince of Chaos with Wings|
 000002759|1|1 Autarch Wayleaper|
 000002760|1|1 Inquisitor in Terminator Armour|
@@ -1486,7 +1481,7 @@
 000002810|1|1 Wall of Martyrs Defence Emplacement|
 000002811|1|1 Aegis Defence Line with Weapon Emplacement (4 large shield sections, 4 small shield sections and 1 gun emplacement)|
 000003582|1|1 Khorne Berzerker Champion|
-000003582|2|4-9 Khorne Berzerkers|
+000003582|2|9-19 Khorne Berzerkers|
 000003583|1|1 Aspiring Sorcerer|
 000003583|2|4-9 Rubric Marines|
 000003584|1|1 Plague Champion|
@@ -1629,108 +1624,6 @@
 000003715|1|1 Benefictus|
 000003716|1|1 Acolyte Leader|
 000003716|2|4-9 Acolyte Hybrids|
-000003717|1|1 Cadian Castellan|
-000003718|1|1 Cadian Commander|
-000003718|2|4 Cadian Veteran Guardsmen|
-000003720|1|1 Primaris Psyker|
-000003722|1|1 Death Korps Marshal|
-000003723|1|1 Death Rider Squadron Commander|
-000003724|1|1 Death Rider Commissar|
-000003725|1|1 Quartermaster Revenant|
-000003725|2|4 Medicae Servitors|
-000003726|1|1 Shock Trooper Sergeant and 9 Shock Troopers|
-000003726|2|OR|
-000003726|3|2 Shock Trooper Sergeants and 18 Shock Troopers|
-000003727|1|1 Jungle Fighter Sergeant and 9 Jungle Fighters|
-000003727|2|OR|
-000003727|3|2 Jungle Fighter Sergeants and 18 Jungle Fighters|
-000003728|1|1 Death Korps Watchmaster and 9 Death Korps Troopers|
-000003728|2|OR|
-000003728|3|2 Death Korps Watchmasters and 18 Death Korps Troopers|
-000003730|1|1 Chimera|
-000003731|1|1 Taurox|
-000003732|1|1 Taurox Prime|
-000003733|1|1 Storm Chimera|
-000003734|1|1 Aegis Defence Line|
-000003735|1|1 Earthshaker Platform|
-000003736|1|1 Hydra Platform|
-000003737|1|1 Manticore Platform|
-000003738|1|1-2 Sabre Gun Platforms|
-000003739|1|1-2 Armoured Sentinels|
-000003740|1|1 Rough Rider Sergeant|
-000003740|2|4-9 Rough Riders|
-000003741|1|1 Baneblade|
-000003742|1|1 Banehammer|
-000003743|1|1 Banesword|
-000003744|1|1 Basilisk|
-000003745|1|1 Deathstrike|
-000003746|1|1 Doomhammer|
-000003747|1|2 Ordnance Teams|
-000003749|1|1 Hellhammer|
-000003750|1|1 Hellhound|
-000003751|1|1 Hydra|
-000003752|1|1 Kasrkin Sergeant|
-000003752|2|9 Kasrkin Troopers|
-000003753|1|1 Leman Russ Battle Tank|
-000003754|1|1 Leman Russ Demolisher|
-000003755|1|1 Leman Russ Eradicator|
-000003756|1|1 Leman Russ Executioner|
-000003757|1|1 Leman Russ Exterminator|
-000003758|1|1 Leman Russ Punisher|
-000003759|1|1 Leman Russ Vanquisher|
-000003760|1|1 Manticore|
-000003763|1|1 Rogal Dorn Battle Tank|
-000003764|1|1-2 Scout Sentinels|
-000003765|1|1 Shadowsword|
-000003766|1|1 Stormlord|
-000003767|1|1 Stormsword|
-000003768|1|1 Wyvern|
-000003769|1|1 Carnodon|
-000003770|1|1 Colossus|
-000003771|1|1 Crassus|
-000003772|1|1 Cyclops Demolition Vehicle|
-000003773|1|1 Ridemaster|
-000003773|2|4-9 Death Riders|
-000003774|1|1 Earthshaker Carriage|
-000003775|1|1 Hades Breaching Drill|
-000003776|1|1 Macharius|
-000003777|1|1 Macharius Vanquisher|
-000003778|1|1 Macharius Vulcan|
-000003779|1|1 Malcador|
-000003780|1|1 Malcador Annihilator|
-000003781|1|1 Malcador Defender|
-000003782|1|1 Malcador Infernus|
-000003783|1|1 Medusa Carriage|
-000003784|1|1 Praetor|
-000003785|1|1-3 Rapier Laser Destroyers|
-000003786|1|1 Stormblade|
-000003787|1|1-3 Tarantula Sentry Guns|
-000003788|1|1 Trojan Support Vehicle|
-000003789|1|1 Valdor|
-000003790|1|1 Arkurian Stormhammer|
-000003791|1|1 Armageddon-pattern Medusa|
-000003792|1|1 Atlas Recovery Vehicle|
-000003793|1|1 Centaur Light Carrier|
-000003794|1|One of the following:|
-000003794|2|1 Grenadier Sergeant and 9 Grenadiers|
-000003794|3|1 Grenadier Sergeant, 7 Grenadiers and 1 Heavy Weapons Team|
-000003795|1|1 Dominus Armoured Siege Bombard|
-000003796|1|1 Elysian Drop Sentinel|
-000003797|1|3 Elysian Sniper Teams|
-000003798|1|1 Gorgon Heavy Transport|
-000003799|1|1 Griffon Mortar Carrier|
-000003800|1|1 Heavy Mortar Team|
-000003801|1|1 Heavy Quad Launcher Team|
-000003802|1|1 Macharius Omega|
-000003803|1|1 Minotaur|
-000003804|1|1 Mukaali Rider Sergeant|
-000003804|2|2 Mukaali Riders|
-000003805|1|1 Salamander Command Vehicle|
-000003806|1|1 Salamander Scout Vehicle|
-000003807|1|1 Sentinel Powerlifter|
-000003808|1|1 Stygies Destroyer Tank Hunter|
-000003809|1|1 Tauros Assault Vehicle|
-000003810|1|1 Tauros Venator|
 000003811|1|1 Celestian Sacresant Aveline – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000003812|1|1 Ministorum Priest|
 000003813|1|1 Terminator Justicar|
@@ -1822,15 +1715,6 @@
 000003860|1|3 Renegade Plague Ogryns|
 000003861|1|1 Boss Nob|
 000003861|2|5 Breaka Boyz|
-000003862|1|1 Death Jester|
-000003863|1|1 Shadowseer|
-000003864|1|1 Solitaire – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
-000003865|1|1 Troupe Master|
-000003866|1|1 Starweaver|
-000003868|1|2-4 Skyweavers|
-000003869|1|1 Lead Player|
-000003869|2|4-11 Players|
-000003870|1|1 Voidweaver|
 000003871|1|1 Watch Master|
 000003872|1|1 Watch Captain Artemis|
 000003873|1|1 Deathwatch Terminator Sergeant|
@@ -1872,22 +1756,7 @@
 000003897|1|2 Ordnance Teams|
 000003898|1|1 Ridemaster|
 000003898|2|4-9 Death Riders|
-000003899|1|1 Catachan Commander|
-000003899|2|4 Veteran Guardsmen|
-000003900|1|1 Lord Commissar|
-000003900|2|5 Veteran Guardsmen|
-000003901|1|1 Leman Russ Commander|
-000003902|1|1 Rogal Dorn Tank Commander|
-000003903|1|1 Artillery Team|
-000003904|1|3 Heavy Weapons Teams|
-000003905|1|3 Heavy Weapons Teams|
-000003906|1|1 Ridemaster|
-000003906|2|4-9 Death Riders|
-000003907|1|1 Krieg Engineer Watchmaster|
-000003907|2|4-9 Krieg Combat Engineers|
-000003908|1|3 Heavy Weapons Gunners|
-000003908|2|1 Fire Coordinator|
-000003909|1|1 Jain Zar – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000003909|1|1 Lhykhis – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
 000003910|1|1 D-cannon Platform|
 000003911|1|1 Shadow Weaver Platform|
 000003912|1|1 Vibro Cannon Platform|
@@ -1904,3 +1773,258 @@
 000003919|2|2-5 Reavers|
 000003920|1|1 Raider|
 000003921|1|1 Venom|
+000003922|1|1 Minka Lesk - <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000003922|2|4 Lesk’s Heroes|
+000003923|1|1 Death Jester|
+000003924|1|1 Shadowseer|
+000003925|1|1 Solitaire – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000003926|1|1 Troupe Master|
+000003927|1|1 Starweaver|
+000003928|1|2-4 Skyweavers|
+000003929|1|1 Lead Player|
+000003929|2|4-11 Players|
+000003930|1|1 Voidweaver|
+000003931|1|1 Voidreaver Felarch|
+000003931|2|4-9 Corsair Voidreavers|
+000003932|1|This unit can contain a maximum of 10 models.|
+000003932|2|1 Voidscarred Felarch|
+000003932|3|4-9 Corsair Voidscarred|
+000003932|4|0-1 Shade Runner|
+000003932|5|0-1 Soul Weaver|
+000003932|6|0-1 Way Seeker|
+000003933|1|0-1 Cloud Dancer Felarch|
+000003933|2|3-6 Corsair Cloud Dancers|
+000003934|1|0-1 Corsair Reaver Felarch|
+000003934|2|5-10 Corsair Reavers|
+000003935|1|0-1 Corsair Skyreaver Felarch|
+000003935|2|5-10 Corsair Skyreavers|
+000003937|1|1 Provisionally Prepared – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000003938|1|1 Cadian Castellan|
+000003939|1|1 Cadian Commander|
+000003939|2|4 Cadian Veteran Guardsmen|
+000003940|1|1 Catachan Commander|
+000003940|2|4 Veteran Guardsmen|
+000003941|1|1 Lord Commissar|
+000003941|2|5 Veteran Guardsmen|
+000003942|1|1 Leman Russ Commander|
+000003943|1|1 Primaris Psyker|
+000003944|1|1 Rogal Dorn Tank Commander|
+000003945|1|1 Death Rider Commissar|
+000003946|1|1 Quartermaster Revenant|
+000003946|2|4 Medicae Servitors|
+000003947|1|1 Minka Lesk - <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000003947|2|4 Lesk’s Heroes|
+000003948|1|1 Shock Trooper Sergeant and 9 Shock Troopers|
+000003948|2|OR|
+000003948|3|2 Shock Trooper Sergeants and 18 Shock Troopers|
+000003949|1|1 Jungle Fighter Sergeant and 9 Jungle Fighters|
+000003949|2|OR|
+000003949|3|2 Jungle Fighter Sergeants and 18 Jungle Fighters|
+000003950|1|1 Death Korps Watchmaster and 9 Death Korps Troopers|
+000003950|2|OR|
+000003950|3|2 Death Korps Watchmasters and 18 Death Korps Troopers|
+000003951|1|1 Chimera|
+000003952|1|1 Taurox|
+000003953|1|1 Taurox Prime|
+000003954|1|1 Storm Chimera|
+000003955|1|1 Aegis Defence Line|
+000003956|1|1 Earthshaker Platform|
+000003957|1|1 Hydra Platform|
+000003958|1|1 Manticore Platform|
+000003959|1|1-2 Sabre Gun Platforms|
+000003960|1|1-2 Armoured Sentinels|
+000003961|1|1 Artillery Team|
+000003962|1|1 Rough Rider Sergeant|
+000003962|2|4-9 Rough Riders|
+000003963|1|1 Baneblade|
+000003964|1|1 Banehammer|
+000003965|1|1 Banesword|
+000003966|1|1 Basilisk|
+000003967|1|3 Heavy Weapons Teams|
+000003968|1|3 Heavy Weapons Teams|
+000003969|1|1 Ridemaster|
+000003969|2|4-9 Death Riders|
+000003970|1|1 Deathstrike|
+000003971|1|1 Doomhammer|
+000003972|1|2 Ordnance Teams|
+000003973|1|1 Hellhammer|
+000003974|1|1 Hellhound|
+000003975|1|1 Hydra|
+000003976|1|1 Kasrkin Sergeant|
+000003976|2|9 Kasrkin Troopers|
+000003977|1|1 Krieg Engineer Watchmaster|
+000003977|2|4-9 Krieg Combat Engineers|
+000003978|1|3 Heavy Weapons Gunners|
+000003978|2|1 Fire Coordinator|
+000003979|1|1 Leman Russ Battle Tank|
+000003980|1|1 Leman Russ Demolisher|
+000003981|1|1 Leman Russ Eradicator|
+000003982|1|1 Leman Russ Executioner|
+000003983|1|1 Leman Russ Exterminator|
+000003984|1|1 Leman Russ Punisher|
+000003985|1|1 Leman Russ Vanquisher|
+000003986|1|1 Manticore|
+000003987|1|1 Rogal Dorn Battle Tank|
+000003988|1|1-2 Scout Sentinels|
+000003989|1|1 Shadowsword|
+000003990|1|1 Stormlord|
+000003991|1|1 Stormsword|
+000003992|1|1 Wyvern|
+000003993|1|1 Cyclops Demolition Vehicle|
+000003994|1|1 Arkurian Stormhammer|
+000003995|1|1 Armageddon-pattern Medusa|
+000003996|1|1 Atlas Recovery Vehicle|
+000003997|1|1 Carnodon|
+000003998|1|1 Centaur Light Carrier|
+000003999|1|1 Colossus|
+000004000|1|1 Crassus|
+000004001|1|One of the following:|
+000004001|2|1 Grenadier Sergeant and 9 Grenadiers|
+000004001|3|1 Grenadier Sergeant, 7 Grenadiers and 1 Heavy Weapons Team|
+000004002|1|1 Dominus Armoured Siege Bombard|
+000004003|1|1 Earthshaker Carriage|
+000004004|1|1 Elysian Drop Sentinel|
+000004005|1|3 Elysian Sniper Teams|
+000004006|1|1 Gorgon Heavy Transport|
+000004007|1|1 Griffon Mortar Carrier|
+000004008|1|1 Hades Breaching Drill|
+000004009|1|1 Heavy Mortar Team|
+000004010|1|1 Heavy Quad Launcher Team|
+000004011|1|1 Macharius|
+000004012|1|1 Macharius Omega|
+000004013|1|1 Macharius Vanquisher|
+000004014|1|1 Macharius Vulcan|
+000004015|1|1 Malcador|
+000004016|1|1 Malcador Annihilator|
+000004017|1|1 Malcador Defender|
+000004018|1|1 Malcador Infernus|
+000004019|1|1 Medusa Carriage|
+000004020|1|1 Minotaur|
+000004021|1|1 Mukaali Rider Sergeant|
+000004021|2|2 Mukaali Riders|
+000004022|1|4 Munitorum Servitors|
+000004023|1|1 Praetor|
+000004024|1|1-3 Rapier Laser Destroyers|
+000004025|1|1 Master of Ordnance, 1 Officer of the Fleet and 1 Astropath.|
+000004026|1|1 Salamander Command Vehicle|
+000004027|1|1 Salamander Scout Vehicle|
+000004028|1|1 Sentinel Powerlifter|
+000004029|1|1 Stormblade|
+000004030|1|1 Stygies Destroyer Tank Hunter|
+000004031|1|1-3 Tarantula Sentry Guns|
+000004032|1|1 Tauros Assault Vehicle|
+000004033|1|1 Tauros Venator|
+000004034|1|1 Trojan Support Vehicle|
+000004035|1|1 Valdor|
+000004036|1|1 Chaos Lord|
+000004037|1|1 Chaos Lord in Terminator Armour|
+000004038|1|1 Chaos Lord|
+000004039|1|1 Chaos Lord on Disc of Tzeentch|
+000004040|1|1 Chaos Lord on Juggernaut|
+000004041|1|1 Chaos Lord on Palanquin of Nurgle|
+000004042|1|1 Chaos Lord on Steed of Slaanesh|
+000004043|1|1 Terminator Champion|
+000004043|2|4-9 Chaos Terminators|
+000004044|1|1 Chosen Champion|
+000004044|2|4-9 Chosen|
+000004045|1|1 Cultist Firebrand |
+000004046|1|1 Cult Demagogue|
+000004046|2|1 Mindwitch|
+000004046|3|1 Iconarch|
+000004046|4|2 Blessed Blades|
+000004047|1|1 Traitor Enforcer|
+000004047|2|1 Traitor Ogryn|
+000004048|1|1 Renegade Enforcer|
+000004049|1|1 Rogue Psyker|
+000004050|1|1 Cultist Champion|
+000004050|2|9-19 Chaos Cultists|
+000004051|1|1 Cultist Champion|
+000004051|2|9-19 Chaos Cultists|
+000004052|1|3-6 Torments|
+000004052|2|5-10 Mutants|
+000004053|1|1 Fellgor Champion|
+000004053|2|9 Fellgor Beastmen|
+000004054|1|1 Traitor Sergeant|
+000004054|2|9 Traitor Guardsmen|
+000004055|1|4 Nightmare Hulks|
+000004055|2|3 Gellerpox Mutants|
+000004056|1|16 Mutoid Vermin|
+000004057|1|4 Negavolt Cultists|
+000004058|1|3 Renegade Heavy Weapons Teams|
+000004059|1|1 Ogryn Pack Master|
+000004059|2|3 Chaos Mauler Hounds|
+000004060|1|3 Renegade Ogryn Brutes|
+000004061|1|3 Renegade Plague Ogryns|
+000004062|1|1 Dark Apostle|
+000004062|2|2 Dark Disciples|
+000004063|1|1 Havoc Champion|
+000004063|2|4 Havocs|
+000004064|1|1 Aspiring Champion|
+000004064|2|4-9 Legionaries|
+000004065|1|1 Master of Possession|
+000004066|1|1 Possessed Champion|
+000004066|2|4-9 Possessed|
+000004067|1|1 Raptor Champion|
+000004067|2|4-9 Raptors|
+000004068|1|1 Sorcerer|
+000004069|1|1 Sorcerer on Disc of Tzeentch|
+000004070|1|1 Sorcerer on Palanquin of Nurgle|
+000004071|1|1 Sorcerer on Steed of Slaanesh|
+000004072|1|1 Sorcerer in Terminator Armour|
+000004073|1|1 Warp Talon Champion|
+000004073|2|4-9 Warp Talons|
+000004074|1|1 Miraculist|
+000004074|2|1 Salvationist|
+000004074|3|1 Death Cult Assassin|
+000004074|4|2 Missionaries|
+000004074|5|4 Sanctifiers|
+000004075|1|1 Miraculist|
+000004075|2|1 Salvationist|
+000004075|3|1 Death Cult Assassin|
+000004075|4|2 Missionaries|
+000004075|5|4 Sanctifiers|
+000004076|1|1 Blood Herald|
+000004076|2|7 Goremongers|
+000004077|1|1 Fulgrim – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004078|1|1 Lord Exultant|
+000004079|1|1 Obsessionist|
+000004079|2|4-9 Tormentors|
+000004080|1|1 Obsessionist|
+000004080|2|4-9 Infractors|
+000004081|1|1 Terminator Champion|
+000004081|2|4 Chaos Terminators|
+000004082|1|1 Chaos Land Raider|
+000004083|1|1 Lucius the Eternal – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004084|1|1 Lord Kakophonist|
+000004085|1|1 Sorcerer|
+000004086|1|1 Daemon Prince of Slaanesh|
+000004087|1|1 Daemon Prince of Slaanesh with Wings|
+000004088|1|1 Disharmonist|
+000004088|2|5 Noise Marines|
+000004089|1|3-6 Flawless Blades|
+000004090|1|2 Chaos Spawn|
+000004091|1|1 Maulerfiend|
+000004092|1|1 Heldrake|
+000004093|1|1 Chaos Rhino|
+000004094|1|1 Shalaxi Helbane – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004095|1|1 Alluress|
+000004095|2|9 Daemonettes|
+000004096|1|1 Blissbringer|
+000004096|2|2-5 Fiends|
+000004097|1|1 Keeper of Secrets|
+000004098|1|1 Heartseeker|
+000004098|2|4-9 Seekers|
+000004099|1|1 Disharmonist|
+000004099|2|5 Noise Marines|
+000004100|1|1 Tormentbringer|
+000004101|1|1-2 Hellflayers|
+000004102|1|1 Karanak – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004103|1|1 Slaughterbound|
+000004104|1|1 Skarbrand – <span class="kwb">EPIC</span> <span class="kwb">HERO</span>|
+000004105|1|1 Bloodthirster|
+000004106|1|1 Bloodreaper|
+000004106|2|9 Bloodletters|
+000004107|1|1 Bloodhunter|
+000004107|2|2-5 Bloodcrushers|
+000004108|1|1 Gore Hound|
+000004108|2|4-9 Flesh Hounds|

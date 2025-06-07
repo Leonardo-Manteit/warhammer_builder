@@ -1,5 +1,5 @@
-﻿id|name|link|Colour
-AoI|Agents of the Imperium|https://wahapedia.ru/wh40k10ed/factions/agents-of-the-imperium|#368bd0|
+﻿id|name|link|
+AoI|Imperial Agents|https://wahapedia.ru/wh40k10ed/factions/imperial-agents|#368bd0|
 AM|Astra Militarum|https://wahapedia.ru/wh40k10ed/factions/astra-militarum|#dbdbdb|
 GC|Genestealer Cults|https://wahapedia.ru/wh40k10ed/factions/genestealer-cults|#ed468c|
 NEC|Necrons|https://wahapedia.ru/wh40k10ed/factions/necrons|#2ea332|
@@ -11,8 +11,9 @@ GK|Grey Knights|https://wahapedia.ru/wh40k10ed/factions/grey-knights|#ade6ff|
 TAU|T’au Empire|https://wahapedia.ru/wh40k10ed/factions/t-au-empire|#e48510|
 LoV|Leagues of Votann|https://wahapedia.ru/wh40k10ed/factions/leagues-of-votann|#6cd8ff|
 AdM|Adeptus Mechanicus|https://wahapedia.ru/wh40k10ed/factions/adeptus-mechanicus|#ff5053|
-TS|Thousand Sons|https://wahapedia.ru/wh40k10ed/factions/thousand-sons|#42a0c2|
+TS|Thousand Sons|https://wahapedia.ru/wh40k10ed/factions/thousand-sons|#42a0c2|#42a0c2|
 DG|Death Guard|https://wahapedia.ru/wh40k10ed/factions/death-guard|#74c377|
+EC|Emperor’s Children|https://wahapedia.ru/wh40k10ed/factions/emperor-s-children|#f49af4
 WE|World Eaters|https://wahapedia.ru/wh40k10ed/factions/world-eaters|#e60810|
 QT|Chaos Knights|https://wahapedia.ru/wh40k10ed/factions/chaos-knights|#f53434|
 CD|Chaos Daemons|https://wahapedia.ru/wh40k10ed/factions/chaos-daemons|#f53434|

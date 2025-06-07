@@ -9,7 +9,7 @@ async function storeFactionData() {
         (faction_id, faction_info) 
         VALUES ($1, $2) ;`
         db.query(sql, [faction_id, JSON.stringify(res[faction_id])], (res, err) => {
-            // if (err) console.log(err)
+            if (err) console.log(err)
         })
     }
     return
@@ -27,7 +27,7 @@ async function storeUnitData(faction_id) {
     return
 }
 
-storeFactionData()
+// storeFactionData()
 
 // storeUnitData('NEC')
 // storeUnitData('TS')
@@ -57,6 +57,8 @@ storeFactionData()
 // storeUnitData('AS')
 // storeUnitData('CD')
 // storeUnitData('DG')
+// storeUnitData('EC')
+
 // storeUnitData('SM')
 
 // no unaligned forces data 

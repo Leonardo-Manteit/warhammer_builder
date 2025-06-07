@@ -59,8 +59,8 @@ async function getFactionData() {
 }
 
 async function getThisFactionsUnits(factionId) {
-    let factionUnits = await getFactionUnits(filesArray[1],factionId) //first half
-    // let factionUnits = await getFactionUnits(filesArray[14],factionId) //second half
+    // let factionUnits = await getFactionUnits(filesArray[1],factionId) //first half
+    let factionUnits = await getFactionUnits(filesArray[14],factionId) //second half
     for (let unitId in factionUnits) {
         factionUnits[unitId] = [...factionUnits[unitId] , await getUnitAbilities(filesArray[2], unitId)]
         factionUnits[unitId] = [...factionUnits[unitId] , await getUnitKeyWords(filesArray[3], unitId)]
