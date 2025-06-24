@@ -27,7 +27,7 @@ async function storeUnitData(faction_id) {
     return
 }
 
-// storeFactionData()
+storeFactionData()
 
 // storeUnitData('NEC')
 // storeUnitData('TS')
